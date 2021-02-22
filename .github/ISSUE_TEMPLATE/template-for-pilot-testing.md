@@ -1,5 +1,5 @@
 ---
-name: Template for piloting the guide
+name: Template for Piloting a Guide
 about: Use this template if you want to pilot a UX/UI Guide
  
 title: 'Pilot: [name]'
