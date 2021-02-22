@@ -1,8 +1,7 @@
 ---
 name: Template for Making Guides
-about: Use this template if you want to make a guide for a UX/UI
-  item
-title: 'Guide: [name]'
+about: Use this template if you want to make a guide for a UX/UI item
+title: 'Create a Guide/Template: [name of item]'
 labels: 'Guide: Research, documentation'
 assignees: ''
 
