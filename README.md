@@ -14,3 +14,8 @@ If you have not read the [Guide for New Volunteers](https://www.hackforla.org/ge
 1. Check out the [open Design roles](https://github.com/hackforla/UI-UX/projects/3) and [open Research roles](https://github.com/hackforla/UI-UX/projects/2) we have available.
 
 The UI/UX Community of Practice is one of many.  [See all our Communities of Practices](https://github.com/hackforla/communities-of-practice/blob/main/README.md)
+
+## Get Familiarized with our Hack for LA Processes
+
+1. Read the [guide for using our Github Kanban boards](https://docs.google.com/document/d/11Fe7mNdmPBP5bD_yLJ1C0_I1TmoK47AuHHrdhdDyWCs/edit#heading=h.nl3p4nf4eqb4) (working draft) 
+2. All Hack for LA teams use Figma for our collaborative design. New to Figma? Learn more: [Figma for Beginners videos 1-4](https://www.youtube.com/watch?v=dXQ7IHkTiMM&ab_channel=Figma)  
