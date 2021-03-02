@@ -22,7 +22,7 @@ We know you can't wait to meet everyone in the UI/UX commmunity, but before you 
 ### Step 3. Join the CoP Meeting - Come meet everybody! 
 - Join our UI/UX Community of Practice meeting Mondays at 6 pm PST via [Zoom](https://us02web.zoom.us/j/89670251875?pwd=NTYySW5yL3YrYTRxcHRpK1V6YWdaQT09).
 
-The UI/UX Community of Practice is one of many.  [See all our Communities of Practices](https://github.com/hackforla/communities-of-practice/blob/main/README.md)
+The UI/UX Community of Practice is one of many.  [See all of our Communities of Practice](https://github.com/hackforla/communities-of-practice/blob/main/README.md)
 
 
 
