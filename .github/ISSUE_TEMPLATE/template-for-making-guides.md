@@ -11,10 +11,10 @@ assignees: ''
 We need to create a guide for [name of item] so that [purpose of the item]
 
 ### Action Items
-- [ ] Research existing information about [name of item] in [relevant resources, articles, etc.]
-   - [ ] Once done, remove the "Guide: Research" label and add the "Guide: Gather Examples" label
 - [ ] Gather examples of how other projects or volunteers have done this (if applicable), adding each example as a link in the resources section below
-   - [ ] Once done, remove the "Guide: Gather Examples" label and add the "Guide: Draft Guide" label
+   - [ ] Once done, remove the "Guide: Gather Examples" label and add the "Guide: Research" label
+- [ ] Research existing information about [name of item] in [relevant resources, articles, etc.]
+   - [ ] Once done, remove the "Guide: Research" label and add the "Guide: Draft Guide" label
 - [ ] Create a draft guide, either in markdown format in this issue or a google doc in the [ux/ui google drive]
     - [ ] Once done, remove the "Guide: Draft Guide" label and add the "Guide: Review Guide" label
 - [ ] Review the guide with UX/UI community of practice
