@@ -1,15 +1,15 @@
 # UI/UX Community of Practice 
 
-Welcome to the UI/UX Community of Practice. We are happy you are here! Please do the following steps to get started. 
+Welcome to the UI/UX Community of Practice. We are happy you are here! Please follow the steps below to get started:
 
 ## Let's get Started
-If you haven't attend Hack for LA onboarding, please read the [Guide for New Volunteers](https://www.hackforla.org/getting-started), and register for a upcoming session.  
+If you haven't attended Hack for LA onboarding, please read the [Guide for New Volunteers](https://www.hackforla.org/getting-started), and register for an upcoming session.  
 
 ### Step 1. Join UI/UX Community of Practice
 The first thing you should do after you've finished your Hack for LA onboarding is to join other UI/UX peeps in your community of practice   
 - Join the [ui-ux](https://hackforla.slack.com/archives/C017ESHSMNG) Slack channel and introduce yourself.
 - Create a GitHub account if you don't already have one. We use GitHub for everything! 
-- Slack our UI/UX Community of Practice lead [Danielle](https://hackforla.slack.com/team/U013U4VN8V7) with your Gmail address and GitHub handle.
+- Slack our UI/UX Community of Practice co-lead [Danielle](https://hackforla.slack.com/team/U013U4VN8V7) with your Gmail address and GitHub handle.
 - Accept your Google Drive invite to access the [shared folder](https://drive.google.com/drive/u/0/folders/1os-4KyGnL0SXIeyfoDICOEpG5CO_1MaV).
 - Add yourself to the [Team Roster](https://docs.google.com/spreadsheets/d/1tdfmQntbXnb2qK7qAWCAtzFi94ZTL8YTDkIwyuLm2_w/edit) and inform Danielle after you have done so.
 
