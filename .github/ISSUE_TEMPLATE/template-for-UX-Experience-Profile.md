@@ -12,6 +12,8 @@ assignees: ''
 Fill in the following fields as you work on these items at Hack for LA. Add the link of the items you worked on in the list as examples.
 
 ### Onboarding Action Items
+- [ ] Join UX/UI Github and Google Drive
+- [ ] Set up [2FA](https://www.hackforla.org/guide-pages/2FA.html) on Github and mark HfLA membership [public](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/publicizing-or-hiding-organization-membership#changing-the-visibility-of-your-organization-membership)
 - [ ] Read the [guide for using our Github Kanban boards](https://docs.google.com/document/d/11Fe7mNdmPBP5bD_yLJ1C0_I1TmoK47AuHHrdhdDyWCs/edit#heading=h.nl3p4nf4eqb4) (working draft)
 - [ ] All Hack for LA teams use Figma for our collaborative design. New to Figma? Learn more: [Figma for Beginners videos 1-4](https://www.youtube.com/watch?v=dXQ7IHkTiMM&ab_channel=Figma)  
 - [ ] All Hack for LA teams generally work in an Agile framework. Read more about Agile and how it relates to Kanban [HERE](https://www.atlassian.com/agile).
