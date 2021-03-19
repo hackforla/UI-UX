@@ -10,6 +10,8 @@ The first thing you should do after you've finished your Hack for LA onboarding 
 - Join the [ui-ux](https://hackforla.slack.com/archives/C017ESHSMNG) Slack channel and introduce yourself.
 - Create a GitHub account if you don't already have one. We use GitHub for everything! 
 - Slack our UI/UX Community of Practice co-lead [Danielle](https://hackforla.slack.com/team/U013U4VN8V7) with your Gmail address and GitHub handle.
+- Set up [two-factor authentication](https://www.hackforla.org/guide-pages/2FA.html) while waiting for the GitHub Admin to send you the invite
+- After you have accepted the email invitation to our GitHub organization/repo, mark your Hack for LA membership [Public](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/publicizing-or-hiding-organization-membership#changing-the-visibility-of-your-organization-membership).
 - Accept your Google Drive invite to access the [shared folder](https://drive.google.com/drive/u/0/folders/1os-4KyGnL0SXIeyfoDICOEpG5CO_1MaV).
 - Add yourself to the [Team Roster](https://docs.google.com/spreadsheets/d/1tdfmQntbXnb2qK7qAWCAtzFi94ZTL8YTDkIwyuLm2_w/edit) and inform Danielle after you have done so.
 
