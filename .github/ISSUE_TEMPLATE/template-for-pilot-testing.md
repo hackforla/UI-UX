@@ -1,7 +1,7 @@
 ---
 name: Template for design/conducting a pilot
 about: Use this template if you want to pilot a UX/UI Guide
-title: 'Deisng/Conduct a Pilot: [name]'
+title: 'Conduct a Pilot: [name]'
 labels: 'Pilot: Locate Guide, documentation'
 assignees: ''
 
