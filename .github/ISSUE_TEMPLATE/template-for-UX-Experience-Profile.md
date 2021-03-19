@@ -18,11 +18,11 @@ Fill in the following fields as you work on these items at Hack for LA. Add the 
 - [ ] Check out the [open Design roles](https://github.com/hackforla/UI-UX/projects/3) and [open Research roles](https://github.com/hackforla/UI-UX/projects/2) we have available.
 
 ### CoP Action Items
+- [ ] [Read and Provide feedback for a Guide]()
 - [ ] [Claim a Guide Issue]()
 - [ ] [Complete a Guide Issue]()
 - [ ] [Post Guide in Wiki]()
-- [ ] [Design a Pilot for Guide]()
-- [ ] [Provide feedback for a Guide]()
+- [ ] [Conduct a Pilot for a Guide]()
 
 ### Project Experience Action Items
 - [ ] [Managing the project board]()
