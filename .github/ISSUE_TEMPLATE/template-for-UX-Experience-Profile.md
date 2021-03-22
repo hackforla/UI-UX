@@ -45,3 +45,8 @@ Fill in the following fields as you work on these items at Hack for LA. Add the 
 - [ ] [Usability Test]()
 - [ ] [User Interview]()
 - [ ] [Survey]()
+- [ ] [A/B Testing]()
+- [ ] [Field Research]()
+- [ ] [Card Sorting]()
+- [ ] [Tree Testing]()
+- [ ] [Paper Prototyping]()
