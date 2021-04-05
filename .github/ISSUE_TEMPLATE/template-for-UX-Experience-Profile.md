@@ -20,33 +20,59 @@ Fill in the following fields as you work on these items at Hack for LA. Add the 
 - [ ] Check out the [open Design roles](https://github.com/hackforla/UI-UX/projects/3) and [open Research roles](https://github.com/hackforla/UI-UX/projects/2) we have available.
 
 ### CoP Action Items
-- [ ] [Read and Provide feedback for a Guide]()
-- [ ] [Claim a Guide Issue]()
-- [ ] [Complete a Guide Issue]()
-- [ ] [Post Guide in Wiki]()
-- [ ] [Conduct a Pilot for a Guide]()
+
+- [ ] Read and provide feedback for a Guide
+- [ ] Claim a Guide Issue
+- [ ] Complete a Guide Issue
+- [ ] Post Guide in Wiki
+- [ ] Conduct a Pilot for a Guide
 
 ### Project Experience Action Items
-- [ ] [Managing the project board]()
-   - [ ] [Making good issues]() (Reference - https://www.hackforla.org/guide-pages/github-issues)
-   - [ ] [Prioritizing the backlog]()
-- [ ] [HfLA/COPM Onboarding process Feebback]()
-- [ ] [Template Creation]()
-- [ ] [Review Wiki Guides]()
-- [ ] [Competitive Analysis]()
-- [ ] [User Persona Creation]()
-- [ ] [Journey Map Creation]()
-- [ ] [Project Roadmap]()
-- [ ] [Desk Research]()
-- [ ] [Design System Contribution]()
-- [ ] [Agile Artifacts]()
-- [ ] [HTML/CSS]()
-- [ ] [Cross-funcitnoal communication]()
-- [ ] [Usability Test]()
-- [ ] [User Interview]()
-- [ ] [Survey]()
-- [ ] [A/B Testing]()
-- [ ] [Field Research]()
-- [ ] [Card Sorting]()
-- [ ] [Tree Testing]()
-- [ ] [Paper Prototyping]()
+#### Design 
+
+- [ ] Wireframes - low fidelity
+- [ ] Mockups - high fidelity
+- [ ] Paper Prototyping
+- [ ] Sketching
+<br /> 
+
+- [ ] Figma prototyping
+- [ ] Figma components
+- [ ] Figma auto-layout
+- [ ] HTML/CSS
+ <br /> 
+
+- [ ] Design evaluation
+- [ ] Design System
+- [ ] Group design ideation
+- [ ] Accessibility
+- [ ] Responsive design
+- [ ] Logo design
+- [ ] Icons, vector graphics, and photos
+
+#### Research
+- [ ] Interview
+- [ ] Observation 
+- [ ] Diary studies 
+- [ ] Survey
+- [ ] Affinity mapping
+- [ ] Empathy mapping
+ <br /> 
+
+- [ ] Usability test
+- [ ] A/B or multivariate testing
+- [ ] Competitive analysis
+- [ ] Secondary research
+- [ ] Web analytics
+- [ ] Task analysis
+- [ ] Card sorting
+- [ ] Tree testing
+ <br /> 
+
+- [ ] User persona
+- [ ] Journey mapping
+- [ ] Participant recruiting/screening
+- [ ] Cognitive walkthrough 
+- [ ] Expert review
+- [ ] Heuristic evaluation
+- [ ] Research presentation
