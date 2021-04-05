@@ -8,7 +8,7 @@ If you haven't attended Hack for LA onboarding, please read the [Guide for New V
 ### Step 1. Join UI/UX Community of Practice
 The first thing you should do after you've finished your Hack for LA onboarding is to join other UI/UX peeps in your community of practice   
 - Join the [ui-ux](https://hackforla.slack.com/archives/C017ESHSMNG) Slack channel and introduce yourself.
-- Create a GitHub account if you don't already have one. We use GitHub for everything! 
+- Create a [GitHub](https://github.com/) account if you don't already have one. We use GitHub for everything! 
 - Slack our UI/UX Community of Practice co-lead [Danielle](https://hackforla.slack.com/team/U013U4VN8V7) with your Gmail address and GitHub handle.
 - Set up [two-factor authentication](https://www.hackforla.org/guide-pages/2FA.html) while waiting for the GitHub Admin to send you the invite
 - After you have accepted the email invitation to our GitHub organization/repo, mark your Hack for LA membership [Public](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/publicizing-or-hiding-organization-membership#changing-the-visibility-of-your-organization-membership).
