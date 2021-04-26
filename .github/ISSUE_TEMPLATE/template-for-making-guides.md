@@ -15,7 +15,7 @@ We need to create a guide for [name of item] so that [purpose of the item]
    - [ ] Once done, remove the "Guide: Gather Examples" label and add the "Guide: Research" label
 - [ ] Research existing information about [name of item] in [relevant resources, articles, etc.]
    - [ ] Once done, remove the "Guide: Research" label and add the "Guide: Draft Guide" label
-- [ ] Create a draft guide, either in markdown format in this issue or a google doc in the [ux/ui google drive]
+- [ ] Create a draft guide, either in markdown format in this issue or a google doc in the [ux/ui google drive](https://drive.google.com/drive/u/1/folders/1os-4KyGnL0SXIeyfoDICOEpG5CO_1MaV)
     - [ ] Once done, remove the "Guide: Draft Guide" label and add the "Guide: Review Guide" label
 - [ ] Review the guide with UX/UI community of practice
    - [ ] Once done, remove the "Guide: Review Guide" label and add the "Guide: Leadership Review" label
