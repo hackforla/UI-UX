@@ -28,7 +28,7 @@ We know you can't wait to meet everyone in the UI/UX commmunity, but before you 
 ### Step 3. Join the CoP Meeting - Come meet everybody! 
 - Join our UI/UX Community of Practice meeting Mondays at 6 pm PST via [Zoom](https://us02web.zoom.us/j/89670251875?pwd=NTYySW5yL3YrYTRxcHRpK1V6YWdaQT09).
 - Take the [Remote Onboarding Survey](https://docs.google.com/forms/d/e/1FAIpQLScXnJSyCXgO_RCAuCyOkG4sqGILpAepTlJ0HOaK4H_ccEVmNw/viewform) to provide feedback about your experience joining HfLA
-- Create your own UX Experience Profile (instructions will be provided at Community of Practice meeting)
+- Create your own [UX Experience Profile](https://github.com/hackforla/UI-UX/projects/5)
 
 The UI/UX Community of Practice is one of many.  [See all of our Communities of Practice](https://github.com/hackforla/communities-of-practice/blob/main/README.md)
 
