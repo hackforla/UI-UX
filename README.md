@@ -16,7 +16,7 @@ The first thing you should do after you've finished your Hack for LA onboarding 
 - Set up [two-factor authentication](https://www.hackforla.org/guide-pages/2FA.html) while waiting for the GitHub Admin to send you the invite (this can be completed after starting to attend meetings)
 - After you have accepted the email invitation to our GitHub organization/repo, mark your Hack for LA membership [Public](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/publicizing-or-hiding-organization-membership#changing-the-visibility-of-your-organization-membership).
 - Accept your Google Drive invite to access the [shared folder](https://drive.google.com/drive/u/0/folders/1os-4KyGnL0SXIeyfoDICOEpG5CO_1MaV).
-- Add yourself to the [Team Roster](https://docs.google.com/spreadsheets/d/1tdfmQntbXnb2qK7qAWCAtzFi94ZTL8YTDkIwyuLm2_w/edit) and inform Danielle after you have done so.
+- Add yourself to the [Team Roster](https://docs.google.com/spreadsheets/d/1tdfmQntbXnb2qK7qAWCAtzFi94ZTL8YTDkIwyuLm2_w/edit)
 
 ### Step 2. Get Familiarized with our Processes
 We know you can't wait to meet everyone in the UI/UX commmunity, but before you join your first community of practice meeting, make sure you've checked the following list
