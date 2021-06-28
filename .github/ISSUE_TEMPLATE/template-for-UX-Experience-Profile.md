@@ -2,11 +2,10 @@
 name: UX Experience Profile
 about: UX/UI Community of Practice members keep track of their experience at HfLA
 title: 'UX/UI Experience Profile: YOUR NAME'
-labels: 'experience profile'
+labels: experience profile
 assignees: ''
 
 ---
-
 
 ### Overview
 Fill in the following fields as you work on these items at Hack for LA. Add the link of the items you worked on in the list as examples.
