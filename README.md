@@ -3,7 +3,7 @@
 Welcome to the UI/UX Community of Practice. We are happy you are here! Please follow the steps below to get started:
 
 ## When we meet
-Monday nights 6:00pm Pacific Time
+Wednesday nights 6:00pm Pacific Time
 
 ## Let's get Started
 If you haven't attended Hack for LA onboarding, please read the [Guide for New Volunteers](https://www.hackforla.org/getting-started), and register for an upcoming session.  
