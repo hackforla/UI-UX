@@ -10,9 +10,11 @@ If you haven't attended Hack for LA onboarding, please read the [Guide for New V
 
 ### Step 1. Join UI/UX Community of Practice
 The first thing you should do after you've finished your Hack for LA onboarding is to join other UI/UX peeps in your community of practice   
-- Join the [ui-ux](https://hackforla.slack.com/archives/C017ESHSMNG) Slack channel and introduce yourself.
-- Send our UI/UX Community of Practice co-lead [Felicia](https://hackforla.slack.com/team/U0252LV021F), [Kevin](https://hackforla.slack.com/team/U01GZHT5CM8) or [Shaeeka](https://hackforla.slack.com/team/U028C3EGDDE) your email address.
-- Accept your Google Drive invite to access the [shared folder](https://drive.google.com/drive/u/0/folders/1os-4KyGnL0SXIeyfoDICOEpG5CO_1MaV).
+- Join the [ui-ux](https://hackforla.slack.com/archives/C017ESHSMNG) Slack channel and introduce yourself by using the following text
+``` 
+Hi My name is _____ and I am looking forward to joining the UI/UX community of practice.  Here is my email address ___________.  Please add me to the drive.
+```
+- The Community of Practice leads will add you to the Google Drive [shared folder](https://drive.google.com/drive/u/0/folders/1os-4KyGnL0SXIeyfoDICOEpG5CO_1MaV).
 - Add yourself to the [Team Roster](https://docs.google.com/spreadsheets/d/1tdfmQntbXnb2qK7qAWCAtzFi94ZTL8YTDkIwyuLm2_w/edit). Make sure you add your **NAME**, **Email Address**, **Slack Name**, and **GitHub Username**. 
 - Create a [GitHub](https://github.com/) account if you don't already have one. We use GitHub for everything!  
 - Set up [two-factor authentication](https://www.hackforla.org/guide-pages/2FA.html) while waiting for the GitHub Admin to send you the invite (this can be completed after starting to attend meetings)
