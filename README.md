@@ -15,7 +15,7 @@ The first thing you should do after you've finished your Hack for LA onboarding 
 Hi My name is _____ and I am looking forward to joining the UI/UX community of practice.  Here is my email address ___________.  Please add me to the drive.
 ```
 - The Community of Practice leads will add you to the Google Drive [shared folder](https://drive.google.com/drive/u/0/folders/1os-4KyGnL0SXIeyfoDICOEpG5CO_1MaV).
-- Once you receive the email that you have been added to the folder, Add yourself to the [Team Roster](https://docs.google.com/spreadsheets/d/1tdfmQntbXnb2qK7qAWCAtzFi94ZTL8YTDkIwyuLm2_w/edit). Make sure you add your **NAME**, **Email Address**, **Slack Name**, and **GitHub Username**. 
+- Once you receive the email that you have been added to the folder, Add yourself to the [Team Roster](https://docs.google.com/spreadsheets/d/1tdfmQntbXnb2qK7qAWCAtzFi94ZTL8YTDkIwyuLm2_w/edit). Make sure you fill in ***every column*** except E, L, M, N, O, P, Q, R, S. 
 - Create a [GitHub](https://github.com/) account if you don't already have one. We use GitHub for everything!  
 - Set up [two-factor authentication](https://www.hackforla.org/guide-pages/2FA.html) while waiting for the GitHub Admin to send you the invite (this can be completed after starting to attend meetings)
 - After you have accepted the email invitation to our GitHub organization/repo, mark your Hack for LA membership [Public](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/publicizing-or-hiding-organization-membership#changing-the-visibility-of-your-organization-membership).
