@@ -18,7 +18,7 @@ Hi My name is _____ and I am looking forward to joining the UI/UX community of p
 - Once you receive the email that you have been added to the folder, Add yourself to the [Team Roster](https://docs.google.com/spreadsheets/d/1tdfmQntbXnb2qK7qAWCAtzFi94ZTL8YTDkIwyuLm2_w/edit). Make sure you fill in ***every column*** except E, L, M, N, O, P, Q, R, S. 
 - Create a [GitHub](https://github.com/) account if you don't already have one. We use GitHub for everything!  
 - Set up [two-factor authentication](https://www.hackforla.org/guide-pages/2FA.html) while waiting for the GitHub Admin to send you the invite (this can be completed after starting to attend meetings)
-- After you have accepted the email invitation to our GitHub organization/repo, mark your Hack for LA membership [Public](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/publicizing-or-hiding-organization-membership#changing-the-visibility-of-your-organization-membership).
+- After you have accepted the email invitation to our GitHub organization/repo, mark your Hack for LA membership Public by going to our [People page](https://github.com/orgs/hackforla/people) and looking up your own GitHub handle and changing it from Private to Public.
 
 ### Step 2. Get Familiarized with our Processes
 We know you can't wait to meet everyone in the UI/UX commmunity, but before you join your first community of practice meeting, make sure you've checked the following list
