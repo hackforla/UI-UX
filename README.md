@@ -9,7 +9,7 @@ Wednesday nights 6:00pm Pacific Time
 If you haven't attended Hack for LA onboarding, please read the [Guide for New Volunteers](https://www.hackforla.org/getting-started), and register for an upcoming session.  
 
 ### Step 1. Join UI/UX Community of Practice
-The first thing you should do after you've finished your Hack for LA onboarding is to join other UI/UX peeps in your community of practice   
+The first thing you should do after you've finished your Hack for LA general onboarding is to join other UI/UX peeps in your community of practice   
 - Join the [ui-ux](https://hackforla.slack.com/archives/C017ESHSMNG) Slack channel and introduce yourself by using the following text
 ``` 
 Hi My name is _____ and I am looking forward to joining the UI/UX community of practice.  Here is my email address ___________.  Please add me to the drive.
