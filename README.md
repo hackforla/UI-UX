@@ -22,7 +22,7 @@ Hi My name is _____ and I am looking forward to joining the UI/UX community of p
 
 ### Step 2. Get Familiarized with our Processes
 We know you can't wait to meet everyone in the UI/UX commmunity, but before you join your first community of practice meeting, make sure you've checked the following list
-- Read the [guide for using our Github Kanban boards](https://docs.google.com/document/d/11Fe7mNdmPBP5bD_yLJ1C0_I1TmoK47AuHHrdhdDyWCs/edit#heading=h.nl3p4nf4eqb4) (working draft) 
+- Read the [guide for using our Github Kanban boards](https://docs.google.com/document/d/11Fe7mNdmPBP5bD_yLJ1C0_I1TmoK47AuHHrdhdDyWCs/edit#heading=h.nl3p4nf4eqb4) (working draft) and add any comments if there are portions that are not clear (this helps us make it better).
 - All Hack for LA teams use Figma for our collaborative design. New to Figma? Learn more: [Figma for Beginners videos 1-4](https://www.youtube.com/watch?v=dXQ7IHkTiMM&ab_channel=Figma)  
 - All Hack for LA teams generally work in an Agile framework. Read more about Agile and how it relates to Kanban [HERE](https://www.atlassian.com/agile).
 - Check out the [open Design roles](https://github.com/hackforla/UI-UX/projects/3) and [open Research roles](https://github.com/hackforla/UI-UX/projects/2) we have available.
