@@ -25,13 +25,18 @@ Fill in the following fields as you work on these items at Hack for LA. Add the 
 
 ### CoP Action Items
 
+#### Working on Guides
 - [ ] Read and provide feedback for a Guide
 - [ ] Claim a Guide Issue
 - [ ] Complete a Guide Issue
 - [ ] Post Guide in Wiki
 - [ ] Conduct a Pilot for a Guide
 
+#### Where to find Guides to work on
+- [UI/UX  Templates and Guides project board](https://github.com/hackforla/UI-UX/projects/1)
+
 ### Project Experience Action Items
+
 #### Design 
 
 - [ ] Wireframes - low fidelity
