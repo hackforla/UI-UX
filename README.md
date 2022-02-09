@@ -12,7 +12,7 @@ If you haven't attended Hack for LA onboarding, please read the [Guide for New V
 The first thing you should do after you've finished your Hack for LA general onboarding is to join other UI/UX peeps in your community of practice   
 - Join the [ui-ux](https://hackforla.slack.com/archives/C017ESHSMNG) Slack channel and introduce yourself by using the following text
 ``` 
-Hi My name is _____ and I am looking forward to joining the UI/UX community of practice.  Here is my email address ___________.  Please add me to the drive.
+Hi My name is _____ and I am looking forward to joining the UI/UX community of practice.
 ```
 - The Community of Practice leads will ask you for your email address so that they can add you to the Google Drive [shared folder](https://drive.google.com/drive/u/0/folders/1os-4KyGnL0SXIeyfoDICOEpG5CO_1MaV).
 - Once you receive the email that you have been added to the folder, Add yourself to the [Team Roster](https://docs.google.com/spreadsheets/d/1tdfmQntbXnb2qK7qAWCAtzFi94ZTL8YTDkIwyuLm2_w/edit). Make sure you fill in ***every column*** except E, L, M, N, O, P, Q, R, S. 
