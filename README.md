@@ -28,7 +28,7 @@ We know you can't wait to meet everyone in the UI/UX commmunity, but before you 
 - Check out the [open Design roles](https://github.com/hackforla/UI-UX/projects/3) and [open Research roles](https://github.com/hackforla/UI-UX/projects/2) we have available.
 
 ### Step 3. Join the CoP Meeting - Come meet everybody! 
-- Join our UI/UX Community of Practice meeting Wednesday at 6 pm PST via [Zoom](https://www.google.com/url?q=https://us02web.zoom.us/j/81332313330&sa=D&source=calendar&usd=2&usg=AOvVaw00xfZbua0oriMNAje8Rc-h).
+- Join our UI/UX Community of Practice meeting Wednesday at 6 pm PST via [Zoom](https://us02web.zoom.us/j/81630670134?pwd=RTNLRHlBSE1DeXRudkJJMHkzZGlVUT09).
 - Take the [Remote Onboarding Survey](https://docs.google.com/forms/d/e/1FAIpQLScXnJSyCXgO_RCAuCyOkG4sqGILpAepTlJ0HOaK4H_ccEVmNw/viewform) to provide feedback about your experience joining HfLA
 - Create your own [UX Experience Profile](https://github.com/hackforla/UI-UX/projects/5)
 
