@@ -18,3 +18,6 @@ We need to create a list of questions for our guest speaker [PERSON OR COMPANY] 
 ### Resources/Instructions
 - [UI/UX Slack Channel](https://hackforla.slack.com/archives/C017ESHSMNG)
 - [WEBSITE FOR GUEST SPEAKER]
+
+### Speaker Bio
+[INSERT SPEARKER BIO]
