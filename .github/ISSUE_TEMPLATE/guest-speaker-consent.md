@@ -1,3 +1,12 @@
+---
+name: Guest Speaker Consent
+about: Use this template to create consent documents for UI/UX CoP guest speakers
+title: 'Create Guest Speaker Consent Docs for [Replace NAME OF GUEST SPEAKER]'
+labels: ''
+assignees: ''
+
+---
+
 #### Instructions for creating this issue
 The person who creates this issue should use links in the section "Resources for creating this issue" (i.e., 1.01, 1.02, etc.) to customize this issue.
 - Customize the issue
