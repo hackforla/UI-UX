@@ -21,7 +21,7 @@ We need to create consent documents for guest speaker [Replace NAME OF GUEST SPE
 During these tasks you will be asked to add links to the Resources/Instructions section, and that section is at the bottom of this issue (go view it now).
 
 ### Dependency
-- [ ] The guest speaker has been contacted informally by one of the UI/UX CoP co-leads
+- [ ] The guest speaker has been contacted informally by one of the UI/UX CoP co-leads.
 - [ ] The guest speaker has agreed to be a guest speaker for the UI/UX CoP on a specific date.
 
 ### Action Items
@@ -72,16 +72,48 @@ During these tasks you will be asked to add links to the Resources/Instructions 
        - [ ] Choose "Copy"
        - [ ] Update Resource # 2.03 with the link you just copied. Place it into parentheses at the end of the line.
        - [ ] Choose "Update comment" in GitHub and make sure all the checkboxes above have been checked.
+- Customize Resource for this Speaker's Informed Consent Email
+  - [ ] Open the Speaker Consent Email Template in Resources # 1.03.
+  - [ ] Click "File" and select "Make a Copy"
+  - [ ] Copy the text below.
+     ```
+     [Replace YEAR]: [Replace NAME OF GUEST SPEAKER]: Speaker Consent Email
+     ```
+  - [ ] Paste the text you copied into the "Name" field to rename the doc.
+  - [ ] In the "folder" field, choose "SpeakerConsentForm", then choose the back arrow to "UI/UX Community of Practice"
+  - [ ] Choose "Speakers" > folder for [Replace YEAR]: Guest Speakers > folder for [Replace NAME OF GUEST SPEAKER]
+  - [ ] Choose "Select"
+  - [ ] Choose "Make a copy"
+  - [ ] Replace the highlighted text (including brackets) with the appropriate information
+       - [ ]  First name of guest speaker
+       - [ ]  Month and day of presentation
+       - [ ]  Link to Google Form (Resource # 2.03)
+            - [ ]  Copy the link for Resource # 2.03
+            - [ ]  Delete the text `[ADD LINK]`
+            - [ ]  Highlight to select the text `link`
+            - [ ]  Right-click and select "Insert link"
+            - [ ]  Paste link for Google Form
+            - [ ]  Click "Apply"
+  - [ ] Select all text
+  - [ ] Click the "Highlight color" icon
+  - [ ] Select "None"
+  - [ ] 
+  - [ ] Update Resource # 2.04 with the link you just copied. Place it into parentheses at the end of the line.
 
 #### Send Consent Documents
-- [ ] Text
+- [ ] Assign CoP co-lead to issue
+- [ ] CoP co-lead logs into uiux HfLA Gmail account
+- [ ] CoP co-lead copies and pastes email text from Resource # 2.04
+- [ ] CoP co-lead sends email to guest speaker at least one week before presentation
 
 ### Resources/Instructions
 #### Resources for creating this issue
 - 1.01 [Google Drive Folder: Speakers](https://drive.google.com/drive/folders/1QsvLA40-HbDc7VnKvIxHlowcef0R-EzY?usp=drive_link)
 - 1.02 [Google Form: Consent for Presentation Recording](https://docs.google.com/forms/d/18CvB8eVk0fdHL7XeqID5nT5PIk1aSYDnQOkzLHEb-CY/edit)
+- 1.03 [Google Doc: Speaker Consent Email Template](https://docs.google.com/document/d/12kHYsC32q-nywq1B0HaXmHomYN9CYtx5LOBIarAWYR0/edit?usp=drive_link)
 
 #### Resources gathered during the completion of this issue
 - 2.01 [Google Drive Folder: [Replace YEAR]: Guest Speakers]
 - 2.02 [Google Drive Folder: [Replace NAME OF GUEST SPEAKER]]
-- 2.03 [Google Form: [Replace YEAR]: [Replace NAME OF GUEST SPEAKER]: Presentation Recording Consent Form
+- 2.03 [Google Form: [Replace YEAR]: [Replace NAME OF GUEST SPEAKER]: Presentation Recording Consent Form]
+- 2.04 [Google Doc: [Replace YEAR]: [Replace NAME OF GUEST SPEAKER] Consent Email]
