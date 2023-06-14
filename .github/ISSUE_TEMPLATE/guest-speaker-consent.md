@@ -1,17 +1,41 @@
 ---
 name: Guest Speaker Consent
 about: Use this template to create consent documents for UI/UX CoP guest speakers
-title: 'Create Guest Speaker Consent Docs for [Replace NAME OF GUEST SPEAKER]'
-labels: ''
+title: 'Guest Speaker [Replace YEAR]: Create Consent Docs for [Replace NAME OF GUEST SPEAKER]'
+labels: 'role: CoP Lead - content, size: 0.5pt'
 assignees: ''
 
 ---
 
 #### Instructions for creating this issue
 The person who creates this issue should use links in the section "Resources for creating this issue" (i.e., 1.01, 1.02, etc.) to customize this issue.
-- Customize the issue
+- Use Find/Replace (Mac: ⌘+F or PC: Ctrl+F) to search for and replace the keyword strings (including text and the brackets) below with the appropriate values
+  - Year
+    - [ ] Find/Replace `[Replace YEAR]` with the year that the talk will take place (Four digit format, ex: "2024")
+  - Guest Speaker Name
+    - [ ] Find/Replace `[Replace NAME OF GUEST SPEAKER]` with the first name and last name initial. If there is more than one guest speaker representing a specific organization, use the name of the organization (e.g., "Maze")
+  - Date of Talk
+    - [ ] Find/Replace `[Replace MONTH DAY OF TALK]` with the month and day of the presentation (ex: "May 07") 
 - Update the issue title
+    - [ ] Copy the text below
+      ```
+      Guest Speaker [Replace YEAR]: Create Consent Docs for [Replace NAME OF GUEST SPEAKER]
+      ```
+    - [ ] Choose "Edit" in the title section
+    - [ ] Paste the text you copied into the issue title
+    - [ ] Choose "Save"
 - Customize the issue settings (located in right sidebar)
+    - [ ] Under Assignees, assign a team member if it has been determined. Otherwise, leave it blank.
+    - [ ] Under Labels, choose the gear icon and apply the label `feature: guest speaker`
+    - [ ] Under Labels, choose the gear icon and apply the label `feature: board / google drive / tools`
+    - [ ] Under Labels, choose the gear icon and apply the label `complexity: good first issue`
+    - [ ] Under Projects, choose the gear icon and choose `CoP Management`
+- Evaluate Dependencies
+    - [ ] Read the dependencies listed in this issue.
+    - [ ] Delete the dependencies section if both items have already been completed. If they have not, do the following:
+         - Leave dependencies section with at least one check box unchecked
+         - Under Labels (in the issue settings), choose the gear icon and apply the label `dependency`
+         - Ask the CoP co-lead to put this issue in the Ice Box on the project board
 - Remove this section
   - [ ] After all the checkboxes above are complete and the issue is read to be worked on, delete all text below the "Instructions for Creating this Issue" (top heading) and above "Overview" (heading below) -- i.e., the issue assignee will never see this part.
 
@@ -36,8 +60,7 @@ During these tasks you will be asked to add links to the Resources/Instructions 
     - [ ] Create a new folder (right click and select "New folder" or click "+ New" button).
     - [ ] Paste in the copied text and click "Create"
   - [ ] Right-click on the [Replace YEAR]: Guest Speakers folder.
-  - [ ] Choose "Get Link".
-  - [ ] Choose "Copy link" and "Done"
+  - [ ] Choose "Copy link".
   - [ ] Update Resource # 2.01 with the link you just copied. Paste it inside parentheses at the end of the line.
   - [ ] Choose "Update comment" in GitHub and make sure all the checkboxes above have been checked.
 - Customize Resource for This Speaker's Google Drive Folder
@@ -97,11 +120,14 @@ During these tasks you will be asked to add links to the Resources/Instructions 
   - [ ] Select all text
   - [ ] Click the "Highlight color" icon
   - [ ] Select "None"
-  - [ ] 
+  - [ ] Click "File", select "Share", and select "Share with Others"
+  - [ ] Click "Copy link" and "Done"
   - [ ] Update Resource # 2.04 with the link you just copied. Place it into parentheses at the end of the line.
 
 #### Send Consent Documents
 - [ ] Assign CoP co-lead to issue
+- [ ] Unassign yourself (if not a CoP co-lead)
+- [ ] CoP co-lead reviews the Resources gathered during the completion of this issue.
 - [ ] CoP co-lead logs into uiux HfLA Gmail account
 - [ ] CoP co-lead copies and pastes email text from Resource # 2.04
 - [ ] CoP co-lead sends email to guest speaker at least one week before presentation
@@ -114,6 +140,6 @@ During these tasks you will be asked to add links to the Resources/Instructions 
 
 #### Resources gathered during the completion of this issue
 - 2.01 [Google Drive Folder: [Replace YEAR]: Guest Speakers]
-- 2.02 [Google Drive Folder: [Replace NAME OF GUEST SPEAKER]]
+- 2.02 [Google Drive Folder: [Replace NAME OF GUEST SPEAKER] [Replace MONTH DAY OF TALK]]
 - 2.03 [Google Form: [Replace YEAR]: [Replace NAME OF GUEST SPEAKER]: Presentation Recording Consent Form]
 - 2.04 [Google Doc: [Replace YEAR]: [Replace NAME OF GUEST SPEAKER] Consent Email]
