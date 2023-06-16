@@ -47,7 +47,7 @@ During these tasks you will be asked to add links to the Resources/Instructions 
 ### Dependency
 - [ ] The guest speaker has been contacted informally by one of the UI/UX CoP co-leads.
 - [ ] The guest speaker has agreed to be a guest speaker for the UI/UX CoP on a specific date.
-- [ ] https://github.com/hackforla/UI-UX/issues/355
+- [ ] Guest Speaker Question Tracker #355
 
 ### Action Items
 #### Customize Resource Links
