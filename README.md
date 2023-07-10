@@ -5,6 +5,12 @@ Welcome to the UI/UX Community of Practice. We are happy you are here! Please fo
 ## When we meet
 Wednesday nights 6:00pm Pacific Time
 
+## Upcoming meetings
+### July
+- WED, 12 - Office Hours/Game Night
+- WED, 19 - Guest Speaker: Jessa Anderson
+- WED, 26 - Office Hours/Game Night
+
 ## Let's get Started
 If you haven't attended Hack for LA onboarding, please read the [Guide for New Volunteers](https://www.hackforla.org/getting-started), and register for an upcoming session.  
 
