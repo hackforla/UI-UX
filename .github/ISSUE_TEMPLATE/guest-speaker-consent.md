@@ -136,7 +136,7 @@ During these tasks you will be asked to add links to the Resources/Instructions 
 ### Resources/Instructions
 #### Resources for creating this issue
 - 1.01 [Google Drive Folder: Speakers](https://drive.google.com/drive/folders/1QsvLA40-HbDc7VnKvIxHlowcef0R-EzY?usp=drive_link)
-- 1.02 [Google Form: Consent for Presentation Recording](https://docs.google.com/forms/d/18CvB8eVk0fdHL7XeqID5nT5PIk1aSYDnQOkzLHEb-CY/edit)
+- 1.02 [Google Form: Consent for Presentation Recording](https://docs.google.com/forms/d/1Zd0l9ppkhYOHNFplvezI5JEF5Hq1AAvVRGGBzD7x3ec/edit)
 - 1.03 [Google Doc: Speaker Consent Email Template](https://docs.google.com/document/d/12kHYsC32q-nywq1B0HaXmHomYN9CYtx5LOBIarAWYR0/edit?usp=drive_link)
 
 #### Resources gathered during the completion of this issue
