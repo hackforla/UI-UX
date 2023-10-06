@@ -6,11 +6,11 @@ Welcome to the UI/UX Community of Practice. We are happy you are here! Please fo
 Wednesday nights 6:00pm Pacific Time
 
 ## Upcoming meetings
-### September 
-- WED, 6 - Planning week (no CoP)
-- WED, 13 - Workshop: Whiteboard Challenges
-- TUE, 19 - Guest Speaker: Sola Chang (no CoP meeting on Wed)
-- WED, 27 - Office Hours/Game Night
+### October 
+- WED, 4 - Planning week (no CoP)
+- WED, 11 - Workshop: Figma: The basics
+- WED, 18 - Workshop: Figma: Intermediate
+- WED, 25 - Workshop: Figma: Logos and icons
 
 ## Let's get Started
 If you haven't attended Hack for LA onboarding, please read the [Guide for New Volunteers](https://www.hackforla.org/getting-started), and register for an upcoming session.  
