@@ -11,7 +11,7 @@ Wednesday nights 6:00pm Pacific Time
 - WED, 8 - Workshop: Figma: The basics
 - WED, 15 - Workshop: Portfolio review
 - WED, 22 - Thanksgiving game activity
-- WED, 22 - Holiday Party
+- WED, 29 - Holiday Party
 
 ## Let's get Started
 If you haven't attended Hack for LA onboarding, please read the [Guide for New Volunteers](https://www.hackforla.org/getting-started), and register for an upcoming session.  
