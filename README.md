@@ -8,7 +8,7 @@ Wednesday nights 6:00pm Pacific Time
 ## Upcoming meetings
 ### November 
 - WED, 1 - Planning week (no CoP)
-- WED, 8 - Workshop: Figma: The basics
+- WED, 8 - Fireside Chat - ask questions and get feedback
 - WED, 15 - Workshop: Portfolio review
 - WED, 22 - Thanksgiving game activity
 - WED, 29 - Holiday Party
