@@ -6,12 +6,12 @@ Welcome to the UI/UX Community of Practice. We are happy you are here! Please fo
 Wednesday nights 6:00pm Pacific Time
 
 ## Upcoming meetings
-### November 
-- WED, 1 - Planning week (no CoP)
-- WED, 8 - Fireside Chat - ask questions and get feedback
-- WED, 15 - Workshop: Portfolio review
-- WED, 22 - Thanksgiving game activity
-- WED, 29 - Holiday Party
+### January 
+- WED, 3 - Planning week (no CoP)
+- WED, 10 - Guest Speaker Event: Sara Gabriele
+- WED, 17 - TBD
+- WED, 24 - TBD
+- WED, 31 - TBD
 
 ## Let's get Started
 If you haven't attended Hack for LA onboarding, please read the [Guide for New Volunteers](https://www.hackforla.org/getting-started), and register for an upcoming session.  
