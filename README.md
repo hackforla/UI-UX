@@ -10,8 +10,8 @@ Wednesday nights 6:00pm Pacific Time
 - WED, 3 - Planning week (no CoP)
 - WED, 10 - Guest Speaker Event: Sara Gabriele
 - WED, 17 - Office Hours
-- WED, 24 - TBD
-- WED, 31 - TBD
+- WED, 24 - Linkedin Review
+- WED, 31 - Design Critique
 
 ## Let's get Started
 If you haven't attended Hack for LA onboarding, please read the [Guide for New Volunteers](https://www.hackforla.org/getting-started), and register for an upcoming session.  
