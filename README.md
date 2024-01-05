@@ -9,7 +9,7 @@ Wednesday nights 6:00pm Pacific Time
 ### January 
 - WED, 3 - Planning week (no CoP)
 - WED, 10 - Guest Speaker Event: Sara Gabriele
-- WED, 17 - TBD
+- WED, 17 - Office Hours
 - WED, 24 - TBD
 - WED, 31 - TBD
 
