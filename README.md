@@ -8,8 +8,8 @@ Wednesday nights 6:00pm Pacific Time
 ## Upcoming meetings
 ### January 
 - WED, 3 - Planning week (no CoP)
-- WED, 10 - Guest Speaker Event: Sara Gabriele
-- WED, 17 - Office Hours
+- WED, 10 - Office Hours/Welccome Meeting
+- WED, 17 - FigJam Intro Activity
 - WED, 24 - Linkedin Review
 - WED, 31 - Design Critique
 
