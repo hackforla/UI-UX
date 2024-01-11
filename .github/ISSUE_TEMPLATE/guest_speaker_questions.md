@@ -31,12 +31,12 @@ We need to create a list of questions for our guest speaker [PERSON OR COMPANY] 
 
 Thank you!
 UI/UX CoP co-leads
-@ Sara Brady @ Julia Gab @ Aparna Gopal
+[ADD/TAG CURRENT CoP Co-Leads]
 
 </details>
 
 - [UI/UX Slack Channel](https://hackforla.slack.com/archives/C017ESHSMNG)
-- [WEBSITE FOR GUEST SPEAKER]
+- [WEBSITE/LINKEDIN FOR GUEST SPEAKER]
 
 ### Speaker Bio
 [INSERT SPEARKER BIO]
