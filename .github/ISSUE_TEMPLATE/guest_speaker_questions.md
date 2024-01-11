@@ -19,7 +19,7 @@ We need to create a list of questions for our guest speaker [PERSON - ROLE, COMP
 <details>
 <summary>Slack Announcement (edit this)</summary>
 
-:mega: Mark your Calendars! **[INSERT GUEST SPEAKER NAME][INSERT ROLE at COMPANY]** will be visiting the **UI/UX Community of Practice on [DATE] from [TIME]!**
+:mega: Mark your Calendars! **[INSERT SPEAKER NAME][INSERT ROLE at COMPANY]** will be visiting the **UI/UX Community of Practice on [DATE] from [TIME]!**
 
 :speech_balloon: **Topic:** [INSERT TITLE OF TALK]
  
@@ -27,7 +27,7 @@ We need to create a list of questions for our guest speaker [PERSON - ROLE, COMP
  
 :bust_in_silhouette: **About:** [INSERT SPEAKER BIO]
 
-:wave: Shipra’s LinkedIn
+:wave: [INSERT SPEAKER NAME]'s LinkedIn [INSERT LINK]
 
 Thank you!
 UI/UX CoP Co-Leads
