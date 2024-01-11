@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 ### Overview
-We need to create a list of questions for our guest speaker [PERSON OR COMPANY] attending on [DATE].
+We need to create a list of questions for our guest speaker [PERSON - ROLE, COMPANY] attending on [DATE].
 
 ### Action Items
 - [ ] Send issue to UI/UX Slack channel and ask UI/UX people to write their questions in the comments.
@@ -19,24 +19,24 @@ We need to create a list of questions for our guest speaker [PERSON OR COMPANY] 
 <details>
 <summary>Slack Announcement (edit this)</summary>
 
-:mega: Mark your Calendars! **[GUEST SPEAKER]** will be visiting the UI/UX Community of Practice on **[DATE]**!
+:mega: Mark your Calendars! **[INSERT GUEST SPEAKER NAME][INSERT ROLE at COMPANY]** will be visiting the **UI/UX Community of Practice on [DATE] from [TIME]!**
 
-:computer: **Topic:** Reflections and experiences as a UX Researcher
-  
-? Please post **your questions** in this [GitHub issue](INSERT LINK) :arrow_left: :arrow_down: 
-  
-:bust_in_silhouette:**About:** [INSERT BIO] 
+:speech_balloon: **Topic:** [INSERT TITLE OF TALK]
+ 
+:alphabet-yellow-question: Please post your **questions** for [INSERT SPEAKER NAME] **here** [INSERT LINK TO GITHUB ISSUE] :arrow_backward:
+ 
+:bust_in_silhouette: **About:** [INSERT SPEAKER BIO]
 
-:wave: **[LinkedIn or WEBSITE]** [LINKEDIN LINK]
+:wave: Shipra’s LinkedIn
 
 Thank you!
-UI/UX CoP co-leads
-[ADD/TAG CURRENT CoP Co-Leads]
+UI/UX CoP Co-Leads
+[INSERT CURRENT COP CO-LEADS]
 
 </details>
 
 - [UI/UX Slack Channel](https://hackforla.slack.com/archives/C017ESHSMNG)
-- [WEBSITE/LINKEDIN FOR GUEST SPEAKER]
+- WEBSITE/LINKEDIN: [INSERT NAME OF GUEST SPEAKER & LINK]
 
 ### Speaker Bio
 [INSERT SPEARKER BIO]
