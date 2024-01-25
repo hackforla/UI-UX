@@ -23,11 +23,11 @@ We need to create a list of questions for our guest speaker [PERSON - ROLE, COMP
 
 :speech_balloon: **Topic:** [INSERT TITLE OF TALK]
  
-:❓: Please post your **questions** for [INSERT SPEAKER NAME] **here** [INSERT LINK TO GITHUB ISSUE] :arrow_backward:
+:question: Please post your **questions** for [INSERT SPEAKER NAME] **here** [INSERT LINK TO GITHUB ISSUE] :arrow_backward:
  
 :bust_in_silhouette: **About:** [INSERT SPEAKER BIO]
 
-:⭐: [INSERT SPEAKER NAME]'s LinkedIn [INSERT LINK]
+:star: [INSERT SPEAKER NAME]'s LinkedIn [INSERT LINK]
 
 Thank you!
 UI/UX CoP Co-Leads
