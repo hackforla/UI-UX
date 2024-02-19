@@ -10,7 +10,7 @@ Wednesday nights 6:00pm Pacific Time
 - WED, 7 - Planning week (no CoP)
 - WED, 14 - Fireside chat: Let's talk about AI!
 - WED, 21 - Coffee Chat with (HfLA) Project Leads
-- WED, 28 - Guest Speaker: Shipra Kayan, Principal Evangelist at MIRO, [Meetup Invite](https://www.meetup.com/hackforla/events/298615501/)
+- WED, 28 - TBD
 
 ## Let's get Started
 If you haven't attended Hack for LA onboarding, please read the [Guide for New Volunteers](https://www.hackforla.org/getting-started), and register for an upcoming session.  
