@@ -1,3 +1,6 @@
+![Header for Forms-2](https://github.com/hackforla/UI-UX/assets/86335455/ad981b67-e6bf-4037-8638-e5b8e3182330)
+
+
 # UI/UX Community of Practice 
 
 Welcome to the UI/UX Community of Practice. We are happy you are here! Please follow the steps below to get started:
@@ -10,7 +13,7 @@ Wednesday nights 6:00pm Pacific Time
 - WED, 7 - Planning week (no CoP)
 - WED, 14 - Fireside chat: Let's talk about AI!
 - WED, 21 - Coffee Chat with (HfLA) Project Leads
-- WED, 28 - TBD
+- WED, 28 - Skillshare Activity
 
 ## Let's get Started
 If you haven't attended Hack for LA onboarding, please read the [Guide for New Volunteers](https://www.hackforla.org/getting-started), and register for an upcoming session.  
