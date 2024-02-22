@@ -44,5 +44,6 @@ We know you can't wait to meet everyone in the UI/UX commmunity, but before you 
 
 The UI/UX Community of Practice is one of many.  [See all of our Communities of Practice](https://github.com/hackforla/communities-of-practice/blob/main/README.md)
 
+![hfla logo](https://github.com/hackforla/UI-UX/assets/86335455/7e3d7f02-d836-4dcf-a903-198b521525f7)
 
 
