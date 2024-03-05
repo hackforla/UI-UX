@@ -27,7 +27,7 @@ We need to create a list of questions for our guest speaker [PERSON - ROLE, COMP
  
 :bust_in_silhouette: **About:** [INSERT SPEAKER BIO]
 
-:star: [INSERT SPEAKER NAME]'s LinkedIn [INSERT LINK]
+:wave: [INSERT SPEAKER NAME]'s LinkedIn [INSERT LINK]
 
 Thank you!
 [UI/UX CoP Co-Leads](https://github.com/hackforla/UI-UX/wiki/CoP-Leads) | [UI/UX Community of Practice](https://github.com/hackforla/UI-UX/wiki)
