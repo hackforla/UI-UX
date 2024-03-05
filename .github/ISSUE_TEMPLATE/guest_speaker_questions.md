@@ -35,8 +35,3 @@ Thank you!
 
 </details>
 
-- [UI/UX Slack Channel](https://hackforla.slack.com/archives/C017ESHSMNG)
-- WEBSITE/LINKEDIN: [INSERT NAME OF GUEST SPEAKER & LINK]
-
-### Speaker Bio
-[INSERT SPEARKER BIO]
