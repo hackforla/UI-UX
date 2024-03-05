@@ -17,7 +17,7 @@ We need to create a list of questions for our guest speaker [PERSON - ROLE, COMP
 
 ### Resources/Instructions
 <details>
-<summary>Slack Announcement (edit this)</summary>
+<summary>Meetup/Slack Announcement (edit this)</summary>
 
 :mega: Mark your Calendars! **[INSERT SPEAKER NAME][INSERT ROLE at COMPANY]** will be visiting the **UI/UX Community of Practice on [DATE] from [TIME]!**
 
@@ -30,8 +30,8 @@ We need to create a list of questions for our guest speaker [PERSON - ROLE, COMP
 :star: [INSERT SPEAKER NAME]'s LinkedIn [INSERT LINK]
 
 Thank you!
-UI/UX CoP Co-Leads
-[INSERT CURRENT COP CO-LEADS]
+[UI/UX CoP Co-Leads](https://github.com/hackforla/UI-UX/wiki/CoP-Leads) | [UI/UX Community of Practice](https://github.com/hackforla/UI-UX/wiki)
+
 
 </details>
 
