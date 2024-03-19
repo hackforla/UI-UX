@@ -132,6 +132,7 @@ During these tasks you will be asked to add links to the Resources/Instructions 
 - [ ] CoP co-lead logs into uiux HfLA Gmail account
 - [ ] CoP co-lead copies and pastes email text from Resource # 2.04
 - [ ] CoP co-lead sends email to guest speaker at least one week before presentation
+- [ ] CoP co-lead moves Consent Form & Consent Email from public [UI/UX Community of Practice](https://drive.google.com/drive/folders/1QsvLA40-HbDc7VnKvIxHlowcef0R-EzY?usp=share_link) google drive folder to secure [UI/UX CoP - PII](https://drive.google.com/drive/folders/1uH8gK3r_RPd5kjfaQ8j8ggGw9mawZ9IV?usp=share_link) google drive folder
 
 ### Resources/Instructions
 #### Resources for creating this issue
