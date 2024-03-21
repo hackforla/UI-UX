@@ -129,7 +129,7 @@ During these tasks you will be asked to add links to the Resources/Instructions 
 - [ ] Assign CoP co-lead to issue
 - [ ] Unassign yourself (if not a CoP co-lead)
 - [ ] CoP co-lead reviews the Resources gathered during the completion of this issue.
-- [ ] CoP co-lead gives Guest Speaker 'edit' access to Google Form
+- [ ] CoP co-lead gives Guest Speaker 'edit' access to Google Consent Form
   - [ ] Open the Informed Consent Form in Resources # 2.03.
   - [ ] Click the 3 vertical dots at the top of the Google Form
   - [ ] Choose "Share"
