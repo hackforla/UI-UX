@@ -129,6 +129,14 @@ During these tasks you will be asked to add links to the Resources/Instructions 
 - [ ] Assign CoP co-lead to issue
 - [ ] Unassign yourself (if not a CoP co-lead)
 - [ ] CoP co-lead reviews the Resources gathered during the completion of this issue.
+- [ ] CoP co-lead gives Guest Speaker 'edit' access to Google Form
+  - [ ] Open the Informed Consent Form in Resources # 2.03.
+  - [ ] Click the 3 vertical dots at the top of the Google Form
+  - [ ] Choose "Share"
+  - [ ] Add Guest Speaker email address in the search bar and press enter 
+  - [ ] Give Guest Speaker's email address "Editor" access from drop-down menu
+  - [ ] Uncheck "Notify People"
+  - [ ] Click "Send"
 - [ ] CoP co-lead logs into uiux HfLA Gmail account
 - [ ] CoP co-lead copies and pastes email text from Resource # 2.04
 - [ ] CoP co-lead sends email to guest speaker at least one week before presentation
