@@ -13,7 +13,7 @@ Wednesday nights 6:00pm Pacific Time
 - WED, 6  - Planning week (no CoP)
 - WED, 13 - Design Challenge
 - WED, 20 - Guest Speaker, Shipra Kayan - [Meetup Invite](https://www.meetup.com/hackforla/events/299702225/)
-- WED, 27 - Guest Speaker, Brian Daniels (or) Office Hours
+- WED, 27 - Guest Speaker, Brian Daniels - [Meetup Invite](https://www.meetup.com/hackforla/events/299981981)
 
 ### April
 - WED, 3 - Planning week (no CoP)
