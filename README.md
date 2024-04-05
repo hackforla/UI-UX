@@ -29,7 +29,7 @@ Wednesday nights 6:00pm Pacific Time
 - WED, 26 - Workshop: Participatory Design - Feedback from UI/UX CoP members on goals for the community 
 
 ### July 
-Hack for LA taking a break in July! See you in August!🙌🙌 
+- Hack for LA taking a break in July! See you in August!🙌🙌 
 
 
 ## Let's get Started
