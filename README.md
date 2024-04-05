@@ -9,17 +9,28 @@ Welcome to the UI/UX Community of Practice. We are happy you are here! Please fo
 Wednesday nights 6:00pm Pacific Time
 
 ## Upcoming meetings
-### March 
-- WED, 6  - Planning week (no CoP)
-- WED, 13 - Design Challenge
-- WED, 20 - Guest Speaker, Shipra Kayan - [Meetup Invite](https://www.meetup.com/hackforla/events/299702225/)
-- WED, 27 - Guest Speaker, Brian Daniels - [Meetup Invite](https://www.meetup.com/hackforla/events/299981981)
-
 ### April
 - WED, 3 - Planning week (no CoP)
 - WED, 10 - Fireside Chat: "Things I wish I knew!...Share your background education and work experience"
-- WED, 17 - Design Challenge
-- WED, 24 - Workshop: Participatory Design - Feedback from UI/UX CoP members on goals for the community 
+- WED, 17 - Workshop: UI & Typography
+- WED, 24 - Design Challenge 
+
+### May 
+- WED, 1 - Planning week (no CoP)
+- WED, 08 - Potential Guest Speaker or Workshop TBD
+- WED, 15 - GitHub Training 
+- WED, 22 - Workshop: Participatory Design - Feedback from UI/UX CoP members on goals for the community 
+- WED, 29 - Office Hours
+
+### June
+- WED, 05 - Planning week (no CoP)
+- WED, 12 - TBD
+- WED, 19 - Office Hours
+- WED, 26 - Workshop: Participatory Design - Feedback from UI/UX CoP members on goals for the community 
+
+### July 
+Hack for LA taking a break in July! See you in August!🙌🙌 
+
 
 ## Let's get Started
 If you haven't attended Hack for LA onboarding, please read the [Guide for New Volunteers](https://www.hackforla.org/getting-started), and register for an upcoming session.  
