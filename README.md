@@ -13,12 +13,12 @@ Wednesday nights 6:00pm Pacific Time
 - WED, 03 - Planning week (no CoP)
 - WED, 10 - Fireside Chat: "Things I wish I knew!...Share your background education and work experience"
 - WED, 17 - Workshop: UI & Typography
-- WED, 24 - Design Challenge 
+- WED, 24 - Workshop: Github 
 
 ### May 
 - WED, 01 - Planning week (no CoP)
-- WED, 08 - Potential Guest Speaker or Workshop TBD
-- WED, 15 - GitHub Training 
+- WED, 08 - TBD
+- WED, 15 - Design Challenge 
 - WED, 22 - Workshop: Participatory Design - Feedback from UI/UX CoP members on goals for the community 
 - WED, 29 - Office Hours
 
