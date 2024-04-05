@@ -10,13 +10,13 @@ Wednesday nights 6:00pm Pacific Time
 
 ## Upcoming meetings
 ### April
-- WED, 3 - Planning week (no CoP)
+- WED, 03 - Planning week (no CoP)
 - WED, 10 - Fireside Chat: "Things I wish I knew!...Share your background education and work experience"
 - WED, 17 - Workshop: UI & Typography
 - WED, 24 - Design Challenge 
 
 ### May 
-- WED, 1 - Planning week (no CoP)
+- WED, 01 - Planning week (no CoP)
 - WED, 08 - Potential Guest Speaker or Workshop TBD
 - WED, 15 - GitHub Training 
 - WED, 22 - Workshop: Participatory Design - Feedback from UI/UX CoP members on goals for the community 
