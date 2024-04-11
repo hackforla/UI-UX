@@ -9,9 +9,6 @@ Welcome to the UI/UX Community of Practice. We are happy you are here! Please fo
 Wednesday nights 6:00pm Pacific Time
 
 ## Upcoming meetings
-### When we meet
-- Wednesday nights 6:00pm Pacific Time
-- [Repository of all 2024 UI/UX CoP Meetings](https://github.com/hackforla/UI-UX/wiki/Home-%E2%80%90-2024-UI-UX-CoP-Meetings)
 
 ### April
 - WED, 03 - Planning week (no CoP)
