@@ -3,7 +3,7 @@
 
 # UI/UX Community of Practice 
 
-Welcome to the UI/UX Community of Practice. We are happy you are here! Please follow the steps below to get started:
+Welcome to the UI/UX Community of Practice. We are happy you are here! Please follow the steps below to get started.
 
 ## When we meet
 Wednesday nights 6:00pm Pacific Time
