@@ -9,24 +9,28 @@ Welcome to the UI/UX Community of Practice. We are happy you are here! Please fo
 Wednesday nights 6:00pm Pacific Time
 
 ## Upcoming meetings
+### When we meet
+- Wednesday nights 6:00pm Pacific Time
+- [Repository of all 2024 UI/UX CoP Meetings](https://github.com/hackforla/UI-UX/wiki/Home-%E2%80%90-2024-UI-UX-CoP-Meetings)
+
 ### April
 - WED, 03 - Planning week (no CoP)
 - WED, 10 - Fireside Chat: "Things I wish I knew!...Share your background education and work experience"
 - WED, 17 - Workshop: UI & Typography
-- WED, 24 - Workshop: Github 
+- WED, 24 - Training Workshop: Github
 
 ### May 
 - WED, 01 - Planning week (no CoP)
 - WED, 08 - TBD
-- WED, 15 - Design Challenge 
-- WED, 22 - Workshop: Participatory Design - Feedback from UI/UX CoP members on goals for the community 
+- WED, 15 - Design Challenge
+- WED, 22 - Workshop: Your UX Journey with us! 
 - WED, 29 - Office Hours
 
 ### June
 - WED, 05 - Planning week (no CoP)
 - WED, 12 - TBD
 - WED, 19 - Office Hours
-- WED, 26 - Workshop: Participatory Design - Feedback from UI/UX CoP members on goals for the community 
+- WED, 26 - Workshop: Your UX Journey with us! 
 
 ### July 
 - UI/UX CoP taking a break in July! See you in August!🙌🙌 
