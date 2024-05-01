@@ -19,8 +19,8 @@ Wednesday nights 6:00pm Pacific Time
 ### May 
 - WED, 01 - Planning week (no CoP)
 - WED, 08 - TBD
-- WED, 15 - Design Challenge
-- WED, 22 - Workshop: Your UX Journey with us! 
+- WED, 15 - Workshop: Your UX Journey with us!
+- WED, 22 - Design Challenge
 - WED, 29 - Office Hours
 
 ### June
