@@ -10,27 +10,22 @@ Wednesday nights 6:00pm Pacific Time
 
 ## Upcoming meetings
 
-### April
-- WED, 03 - Planning week (no CoP)
-- WED, 10 - Fireside Chat: "Things I wish I knew!...Share your background education and work experience"
-- WED, 17 - Workshop: UI & Typography
-- WED, 24 - Training Workshop: Github
-
 ### May 
 - WED, 01 - Planning week (no CoP)
-- WED, 08 - TBD
-- WED, 15 - Workshop: Your UX Journey with us!
+- WED, 08 - Peer Review Night! (Portfolios, Resumes, Case Studies or any UX work)
+- WED, 15 - Workshop: Your UX Journey with us! 
 - WED, 22 - Design Challenge
 - WED, 29 - Office Hours
 
 ### June
 - WED, 05 - Planning week (no CoP)
-- WED, 12 - TBD
+- WED, 12 - UI Design Workshop
 - WED, 19 - Office Hours
-- WED, 26 - Workshop: Your UX Journey with us! 
+- WED, 26 - Brainstorm as a community! For our Youtube channel
 
 ### July 
 - UI/UX CoP taking a break in July! See you in August!🙌🙌 
+
 
 
 ## Let's get Started
