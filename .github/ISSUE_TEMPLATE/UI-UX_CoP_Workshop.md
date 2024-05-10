@@ -5,44 +5,44 @@ title: 'UI/UX CoP: [YYYY-MM-DD]: [WORKSHOP NAME]'
 labels: ''
 assignees: ''
 ---
-
 ## 👀 Overview
 ### Workshop Name
-<!-- Provide name of workshop. Example: Workshop: Color Theory or Training Workshop: Github  -->
+<!-- Replace with the full title of the workshop -->
 
 ### Workshop Description
+<!-- Provide a brief description of what the workshop will cover, its objectives, and expected outcomes -->
 
 ### Date and Time
+<!-- Specify the date and time for the workshop -->
 
 ### Target Audience
+<!-- Describe who the ideal audience of this workshop is (e.g., beginners, experienced designers, etc.) -->
 
 ## 💻 Pre-Workshop Preparation
 ### Action Items
-<!-- Provide action items to prepare for this workshop -->
+<!-- List any action items here to prep for the meeting -->
 
 ### Instructions
-<!-- Give clear and simple instructions -->
-<!-- Add all instructions required to implement this workshop -->
+<!-- List any preparation steps or prerequisites for attendees (e.g., software installations, reading materials) -->
 
 ### Resources
-<!-- Add all necessary resources to implement this workshop -->
+<!-- Include links to resources, reading materials, or tools that participants need to review or install before the workshop -->
 
 ### Agenda
-<!-- Provide agenda for the workshop, inckuding time distribution -->
+<!-- Outline the schedule of the workshop including times for specific activities and breaks -->
 
 ### Facilitator(s)
-Host: <!-- Add name of primary host, if applicable -->
-
-Additional Facilitators (opt):
-<!-- Add names of secondary hosts, if applicable -->
+<!-- List the names and roles of the facilitators -->
 
 ## 💬 Communication
-
 ### Pre-Workshop Message
-<!-- Add Slack communication and/or any other announcements -->
+
+<!--Copy and paste the exact message sent to participants prior to the workshop -->
+
 
 ### Reminder Message (1 day before)
-<!-- Add Slack communication and/or any other announcements -->
+
+<!--Copy and paste the reminder message here -->
 
 
 ## 🔄 Post-Workshop Updates
@@ -54,3 +54,6 @@ Additional Facilitators (opt):
 
 ## 📝 Notes
 <!-- Any other information or notes related to the workshop -->
+
+
+
