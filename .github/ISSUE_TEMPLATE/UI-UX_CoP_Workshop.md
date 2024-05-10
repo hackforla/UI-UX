@@ -1,3 +1,12 @@
+---
+name: UI/UX CoP: UI/UX CoP Workshops
+about: Create issue to conduct workshops at the UI/UX Community of Practice
+title: 'UI/UX CoP: [YYYY-MM-DD]: [WORKSHOP NAME]'
+labels: ''
+assignees: ''
+
+---
+
 ## 👀 Overview
 ### Workshop Name
 <!-- Provide name of workshop. Example: Workshop: Color Theory or Training Workshop: Github  -->
