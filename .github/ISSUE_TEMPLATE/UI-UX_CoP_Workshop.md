@@ -4,7 +4,6 @@ about: Create issue to conduct workshops at the UI/UX Community of Practice
 title: 'UI/UX CoP: [YYYY-MM-DD]: [WORKSHOP NAME]'
 labels: ''
 assignees: ''
-
 ---
 
 ## 👀 Overview
