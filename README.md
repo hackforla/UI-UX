@@ -10,13 +10,6 @@ Wednesday nights 6:00pm Pacific Time
 
 ## Upcoming meetings
 
-### May 
-- WED, 01 - Planning week (no CoP)
-- WED, 08 - Peer Review Night! (Portfolios, Resumes, Case Studies or any UX work)
-- WED, 15 - Workshop: Your UX Journey with us! 
-- WED, 22 - Design Challenge
-- WED, 29 - Office Hours
-
 ### June
 - WED, 05 - Planning week (no CoP)
 - WED, 12 - UI Design Workshop
