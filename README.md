@@ -12,8 +12,8 @@ Wednesday nights 6:00pm Pacific Time
 
 ### June
 - WED, 05 - Planning week (no CoP)
-- WED, 12 - UI Design Workshop
-- WED, 19 - Office Hours
+- WED, 12 - Office Hours
+- WED, 19 - UI Design Workshop 
 - WED, 26 - Brainstorm as a community! For our Youtube channel
 
 ### July 
