@@ -14,7 +14,7 @@ Wednesday nights 6:00pm Pacific Time
 - WED, 05 - Planning week (no CoP)
 - WED, 12 - Office Hours
 - WED, 19 - Workshop: Digital illustration using Figma 
-- WED, 26 - Brainstorm as a community! Content creation for your portfolios & our UI/UX YouTube channel
+- WED, 26 - Brainstorm as a community! Content creation for your Portfolios & our YouTube channel
 
 ### July 
 - UI/UX CoP taking a break in July! See you in August!🙌🙌 
