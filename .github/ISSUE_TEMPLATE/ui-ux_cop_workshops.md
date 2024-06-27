@@ -2,7 +2,7 @@
 name: UI/UX CoP Workshops
 about: Create issue to conduct workshops at the UI/UX Community of Practice
 title: 'UI/UX CoP: [YYYY-MM-DD]: [WORKSHOP NAME]'
-labels: ''
+labels: 'role: CoP Lead - content, size: 1pt, feature: workshop, UI/UX CoP Leads'
 assignees: ''
 ---
 ## 👀 Overview
