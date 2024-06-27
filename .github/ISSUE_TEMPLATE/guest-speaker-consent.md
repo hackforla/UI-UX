@@ -4,6 +4,7 @@ about: Use this template to create consent documents for UI/UX CoP guest speaker
 title: 'Guest Speaker [Replace YEAR]: Create Consent Docs for [Replace NAME OF GUEST SPEAKER]'
 labels: 'role: CoP Lead - content, size: 0.5pt'
 assignees: ''
+projects: ' CoP: UI/UX: Project Board'
 
 ---
 
