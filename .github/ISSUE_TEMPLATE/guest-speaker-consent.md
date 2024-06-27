@@ -2,7 +2,7 @@
 name: Guest Speaker Consent
 about: Use this template to create consent documents for UI/UX CoP guest speakers
 title: 'Guest Speaker [Replace YEAR]: Create Consent Docs for [Replace NAME OF GUEST SPEAKER]'
-labels: 'role: CoP Lead - content, size: 0.5pt'
+labels: 'role: CoP Lead - content, size: 0.5pt, UI/UX CoP Leads'
 assignees: ''
 
 
