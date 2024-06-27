@@ -2,7 +2,7 @@
 name: Guest Speaker Questions
 about: Create issue to collect questions for guest speakers ahead of time
 title: 'Generate Questions for [YYYY-MM-DD]: [NAME/COMPANY]'
-labels: ''
+labels: 'role: CoP Lead - content, question, UI/UX CoP Leads'
 assignees: ''
 
 ---
