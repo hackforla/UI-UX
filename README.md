@@ -11,7 +11,19 @@ Wednesday nights 6:00pm Pacific Time
 ## Upcoming meetings
 
 ### July 
-- UI/UX CoP taking a break in July! See you in August!🙌🙌 
+- UI/UX CoP taking a break in July! See you in August!🙌🙌
+
+### August
+- 7: All lead meeting
+- 14 : Office Hours
+- 21 : Content creation discussion
+- 28 : Portfolio & Resume Review
+
+### September
+- 4 : All lead meeting
+- 11 : Office Hours
+- 18 : TBA
+- 25 : Design Thinking Workshop 
 
 
 
