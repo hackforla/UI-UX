@@ -16,7 +16,7 @@ Wednesday nights 6:00pm Pacific Time
 ### August
 - 7: All lead meeting
 - 14 : Office Hours
-- 21 : Content creation discussion
+- 21 : Content Creation discussion
 - 28 : Portfolio & Resume Review
 
 ### September
