@@ -1,29 +1,25 @@
 ![Header for Forms-2](https://github.com/hackforla/UI-UX/assets/86335455/ad981b67-e6bf-4037-8638-e5b8e3182330)
 
 
-# UI/UX Community of Practice 
+# Welcome to the UI/UX Community of Practice! 
 
-Welcome to the UI/UX Community of Practice. We are happy you are here! Please follow the steps below to get started.
+We are happy you are here. Please follow the steps below to get started.
 
-## When we meet
-Wednesday nights 6:00pm Pacific Time
+## When do we meet?
+Every Wednesday at 6:00pm Pacific Time (except for the first week of every month, and holidays)
 
 ## Upcoming meetings
-
-### July 
-- UI/UX CoP taking a break in July! See you in August!🙌🙌
-
 ### August
-- 7: All lead meeting
-- 14 : Office Hours
-- 21 : Content Creation discussion
-- 28 : Portfolio & Resume Review
+- 7th: All lead meeting (no CoP meeting)
+- 14th : Office Hours
+- 21st : Content Creation discussion
+- 28th : Portfolio & Resume Review
 
 ### September
-- 4 : All lead meeting
-- 11 : Office Hours
-- 18 : TBA
-- 25 : Design Thinking Workshop 
+- 4th : All lead meeting (no CoP meeting)
+- 11th : Office Hours
+- 18th : TBA
+- 25th : Design Thinking Workshop 
 
 
 
