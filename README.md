@@ -3,19 +3,20 @@
 
 # Welcome to the UI/UX Community of Practice! 
 
-We are happy you are here. Please follow the steps below to get started.
+We are excited to have you here. Our community is dedicated to fostering collaboration, learning, and growth in the field of UI/UX design. Please follow the steps below to get started and integrate smoothly into our community.
 
-## When do we meet?
-Every Wednesday at 6:00pm Pacific Time (except for the first week of every month, and holidays)
+## Meeting Schedule
+### When We Meet
+- Wednesdays at 6:00pm Pacific Time (except for the first week of every month, and holidays)
 
-## Upcoming meetings
-### August
+### Upcoming Meetings
+#### August
 - 7th: All lead meeting (no CoP meeting)
 - 14th : Office Hours
 - 21st : Content Creation discussion
 - 28th : Portfolio & Resume Review
 
-### September
+#### September
 - 4th : All lead meeting (no CoP meeting)
 - 11th : Office Hours
 - 18th : TBA
@@ -23,35 +24,46 @@ Every Wednesday at 6:00pm Pacific Time (except for the first week of every month
 
 
 
-## Let's get Started
-If you haven't attended Hack for LA onboarding, please read the [Guide for New Volunteers](https://www.hackforla.org/getting-started), and register for an upcoming session.  
+## Getting Started
+### Step 1. Complete General Onboarding
+If you haven't attended Hack for LA onboarding, please read the [Guide for New Volunteers](https://www.hackforla.org/getting-started), and register for an upcoming session before joining the community of practice.  
 
-### Step 1. Join UI/UX Community of Practice
-The first thing you should do after you've finished your Hack for LA general onboarding is to join other UI/UX peeps in your community of practice   
-- Join the [ui-ux](https://hackforla.slack.com/archives/C017ESHSMNG) Slack channel and introduce yourself by using the following text
+### Step 2. Join Communication Channels
+After you've finished your Hack for LA general onboarding join other UI/UX peeps in your community of practice.   
+1. Join the [ui-ux Slack channel](https://hackforla.slack.com/archives/C017ESHSMNG) 
+2. Introduce yourself. You can use the template below:
 ``` 
 Hi My name is _____ and I am looking forward to joining the UI/UX community of practice.
 ```
-- The Community of Practice leads will ask you for your email address so that they can add you to the Google Drive [shared folder](https://drive.google.com/drive/u/0/folders/1os-4KyGnL0SXIeyfoDICOEpG5CO_1MaV).
-- Once you receive the email that you have been added to the folder, Add yourself to the [Team Roster](https://docs.google.com/spreadsheets/d/1tdfmQntbXnb2qK7qAWCAtzFi94ZTL8YTDkIwyuLm2_w/edit). Make sure you fill in ***every column*** except E, L, M, N, O, P, Q, R, S. 
-- Create a [GitHub](https://github.com/) account if you don't already have one. We use GitHub for everything!  
-- Set up [two-factor authentication](https://www.hackforla.org/guide-pages/2FA.html) while waiting for the GitHub Admin to send you the invite (this can be completed after starting to attend meetings)
-- After you have accepted the email invitation to our GitHub organization/repo, mark your Hack for LA membership Public by going to our [People page](https://github.com/orgs/hackforla/people) and looking up your own GitHub handle and changing it from Private to Public.
 
-### Step 2. Get Familiarized with our Processes
-We know you can't wait to meet everyone in the UI/UX commmunity, but before you join your first community of practice meeting, make sure you've checked the following list
-- Read the [guide for using our Github Kanban boards](https://docs.google.com/document/d/11Fe7mNdmPBP5bD_yLJ1C0_I1TmoK47AuHHrdhdDyWCs/edit#heading=h.nl3p4nf4eqb4) (working draft) and add any comments if there are portions that are not clear (this helps us make it better).
-- All Hack for LA teams use Figma for our collaborative design. New to Figma? Learn more: [Figma for Beginners videos 1-4](https://www.youtube.com/watch?v=dXQ7IHkTiMM&ab_channel=Figma)  
-- All Hack for LA teams generally work in an Agile framework. Read more about Agile and how it relates to Kanban [HERE](https://www.atlassian.com/agile).
-- Check out the [open Design roles](https://github.com/hackforla/UI-UX/projects/3), [open Research roles](https://github.com/hackforla/UI-UX/projects/2) and [open Content Design/Writing roles](https://github.com/hackforla/UI-UX/projects/7) we have available.
+### Step 3. Familiarize Yourself with our Processes and Tools
+At Hack For LA and the UI/UX CoP we use specific tools and processes to contribute and keep track of progress. You don't need to be an expert in any of these to join but it helps to familiarize yourself with them before getting started.
+1. Github
+   - [Get Started Documentation](https://docs.github.com/en/get-started)
+2. Kanban Board
+   - [What is Kanban?](https://www.atlassian.com/agile/kanban)
+   - [What is a Kanban board and how to use it](https://www.atlassian.com/agile/kanban)
+3. Agile Framework
+   - [What is Agile?](https://www.atlassian.com/agile).
+4. Figma
+   - [Figma for Beginners Youtube videos](https://www.youtube.com/watch?v=dXQ7IHkTiMM&ab_channel=Figma)
+   
+### Step 4. Join the CoP Meetings  
+1. Join our weekly UI/UX Community of Practice meeting Wednesday at 6 pm PST via [Zoom](https://us06web.zoom.us/j/89597380276?pwd=TWFxajJmMnd1YXBBM05GSHNYdElSQT09).
+2. Participate in discussions and activities during meetings.
 
-### Step 3. Join the CoP Meeting - Come meet everybody! 
-- Join our UI/UX Community of Practice meeting Wednesday at 6 pm PST via [Zoom](https://us06web.zoom.us/j/89597380276?pwd=TWFxajJmMnd1YXBBM05GSHNYdElSQT09).
-- Take the [Remote Onboarding Survey](https://docs.google.com/forms/d/e/1FAIpQLScXnJSyCXgO_RCAuCyOkG4sqGILpAepTlJ0HOaK4H_ccEVmNw/viewform) to provide feedback about your experience joining HfLA
-- Create your own [UX Experience Profile](https://github.com/hackforla/UI-UX/projects/5)
+### Step 5. Engage and Contribute
+1. Review the current Open Roles and start contributing to projects or the CoP
+   - [Design](https://github.com/orgs/hackforla/projects/67/views/4)
+   - [Research](https://github.com/orgs/hackforla/projects/67/views/8)
+   - [Content](https://github.com/orgs/hackforla/projects/67/views/9)
+2. Get started on a [Guide](https://github.com/orgs/hackforla/projects/58/views/4)
+3. Create your own [UX Experience Profile](https://github.com/hackforla/UI-UX/projects/5) to keep track of your progress.
+ 
+## Additional Resources
+The UI/UX Community of Practice is one of many. [See all of our Communities of Practice](https://github.com/hackforla/communities-of-practice/blob/main/README.md)
 
-The UI/UX Community of Practice is one of many.  [See all of our Communities of Practice](https://github.com/hackforla/communities-of-practice/blob/main/README.md)
+## Support and Assistance
+We will be implementing a support ticketing system soon. In the meantime, if you have any questions or need help, please reach out in the [ui-ux Slack Channel](https://hackforla.slack.com/archives/C017ESHSMNG) or join us during our CoP meeting on [Zoom](https://us06web.zoom.us/j/89597380276?pwd=TWFxajJmMnd1YXBBM05GSHNYdElSQT09).
 
-![hfla logo](https://github.com/hackforla/UI-UX/assets/86335455/7e3d7f02-d836-4dcf-a903-198b521525f7)
-
-
+:)
