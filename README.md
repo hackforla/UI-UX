@@ -5,7 +5,7 @@
 
 We are excited to have you here. Our community is dedicated to fostering collaboration, learning, and growth in the field of UI/UX design. Please follow the steps below to get started and integrate smoothly into our community.
 
-## Meeting Schedule
+## :calendar: Meeting Schedule
 ### When We Meet
 - Wednesdays at 6:00pm Pacific Time (except for the first week of every month, and holidays)
 
@@ -24,7 +24,7 @@ We are excited to have you here. Our community is dedicated to fostering collabo
 
 
 
-## Getting Started
+## :white_check_mark: Getting Started
 ### Step 1. Complete General Onboarding
 If you haven't attended Hack for LA onboarding, please read the [Guide for New Volunteers](https://www.hackforla.org/getting-started), and register for an upcoming session before joining the community of practice.  
 
@@ -60,10 +60,10 @@ At Hack For LA and the UI/UX CoP we use specific tools and processes to contribu
 2. Get started on a [Guide](https://github.com/orgs/hackforla/projects/58/views/4)
 3. Create your own [UX Experience Profile](https://github.com/hackforla/UI-UX/projects/5) to keep track of your progress.
  
-## Additional Resources
+## :books: Additional Resources
 The UI/UX Community of Practice is one of many. [See all of our Communities of Practice](https://github.com/hackforla/communities-of-practice/blob/main/README.md)
 
-## Support and Assistance
+## :handshake: Support and Assistance
 We will be implementing a support ticketing system soon. In the meantime, if you have any questions or need help, please reach out in the [ui-ux Slack Channel](https://hackforla.slack.com/archives/C017ESHSMNG) or join us during our CoP meeting on [Zoom](https://us06web.zoom.us/j/89597380276?pwd=TWFxajJmMnd1YXBBM05GSHNYdElSQT09).
 
 :)
