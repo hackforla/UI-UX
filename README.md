@@ -11,13 +11,13 @@ We are excited to have you here. Our community is dedicated to fostering collabo
 
 ### Upcoming Meetings
 #### August
-- 7th: All lead meeting (no CoP meeting)
+- 7th: All lead meeting (No UI/UX CoP Meeting)
 - 14th : Office Hours
 - 21st : Content Creation discussion
 - 28th : Portfolio & Resume Review
 
 #### September
-- 4th : All lead meeting (no CoP meeting)
+- 4th : All lead meeting (No UI/UX CoP Meeting)
 - 11th : Office Hours
 - 18th : TBA
 - 25th : Design Thinking Workshop 
