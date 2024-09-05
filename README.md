@@ -10,16 +10,11 @@ We are excited to have you here. Our community is dedicated to fostering collabo
 - Wednesdays at 6:00pm Pacific Time (except for the first week of every month, and holidays)
 
 ### Upcoming Meetings
-#### August
-- 7th: All lead meeting (No UI/UX CoP Meeting)
-- 14th : Office Hours
-- 21st : Content Creation discussion
-- 28th : Portfolio & Resume Review
 
 #### September
 - 4th : All lead meeting (No UI/UX CoP Meeting)
 - 11th : Office Hours
-- 18th : TBA
+- 18th : Portfolio/Resume/CV Review & Best Practices
 - 25th : Design Thinking Workshop 
 
 
