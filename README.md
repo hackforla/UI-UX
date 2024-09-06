@@ -11,11 +11,18 @@ We are excited to have you here. Our community is dedicated to fostering collabo
 
 ### Upcoming Meetings
 
-#### September
-- 4th : All lead meeting (No UI/UX CoP Meeting)
-- 11th : Office Hours
-- 18th : Portfolio/Resume/CV Review & Best Practices
-- 25th : Design Thinking Workshop 
+### September
+- Sept 04 : All-Leads Meeting (No UI/UX CoP Meeting) 
+- Sept 11 : Office Hours
+- Sept 18 : Portfolio/Resume/CV Review & Best Practices
+- Sept 25 : Design Thinking Workshop 
+
+### October 
+- Oct 02 :  All-Leads Meeting (No UI/UX CoP Meeting) 
+- Oct 09 :  Office hours 
+- Oct 16 : Career Development: TBD 
+- Oct 23 : Technical Skills: Getting started with GitHub! 
+- Oct 30 : Technical Skills: Figma Vectors - Spooky edition 👻🎃 
 
 
 
