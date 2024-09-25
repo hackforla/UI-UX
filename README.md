@@ -15,7 +15,7 @@ We are excited to have you here. Our community is dedicated to fostering collabo
 - Sept 04 : All-Leads Meeting (No UI/UX CoP Meeting) 
 - Sept 11 : Office Hours
 - Sept 18 : Portfolio/Resume/CV Review & Best Practices
-- Sept 25 : Design Thinking Workshop 
+- Sept 25 : Office Hours + Design Thinking discussion
 
 ### October 
 - Oct 02 :  All-Leads Meeting (No UI/UX CoP Meeting) 
