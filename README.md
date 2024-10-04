@@ -11,19 +11,18 @@ We are excited to have you here. Our community is dedicated to fostering collabo
 
 ### Upcoming Meetings
 
-### September
-- Sept 04 : All-Leads Meeting (No UI/UX CoP Meeting) 
-- Sept 11 : Office Hours
-- Sept 18 : Portfolio/Resume/CV Review & Best Practices
-- Sept 25 : Office Hours + Design Thinking discussion
-
-### October 
+### October Schedule 
 - Oct 02 :  All-Leads Meeting (No UI/UX CoP Meeting) 
 - Oct 09 :  Office hours 
-- Oct 16 : Career Development: TBD 
-- Oct 23 : Technical Skills: Getting started with GitHub! 
-- Oct 30 : Technical Skills: Figma Vectors - Spooky edition 👻🎃 
+- Oct 16 :  Career Development: Interview Prep: Elevator Pitch (Soft skills based & best practices)  
+- Oct 23 :  Technical Skills: Getting started with GitHub! 
+- Oct 30 :  Technical Skills: Figma Vectors - Spooky edition 👻🎃 
 
+### November Schedule 
+- Nov 06: All-Leads Meeting (no UI/UX CoP meeting)
+- Nov 13: Career Development: Interview Prep (Technical skills based) 
+- Nov 20: End of the year Town Hall 
+- Nov 27: Office Hours Thanksgiving edition 🍂🍗🦃
 
 
 ## :white_check_mark: Getting Started
