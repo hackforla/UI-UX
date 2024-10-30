@@ -16,10 +16,10 @@ We are excited to have you here. Our community is dedicated to fostering collabo
 - Oct 09 :  Office hours 
 - Oct 16 :  Career Development: Interview Prep: Elevator Pitch (Soft skills based & best practices)  
 - Oct 23 :  Technical Skills: Getting started with GitHub! 
-- Oct 30 :  Technical Skills: Figma Vectors - Spooky edition 👻🎃 
+- Oct 30 :  No UI/UX CoP Meeting. Happy Halloween!🪄🎃👻
 
 ### November Schedule 
-- Nov 06: All-Leads Meeting (no UI/UX CoP meeting)
+- Nov 06: All-Leads Meeting (no UI/UX CoP Meeting)
 - Nov 13: Career Development: Interview Prep (Technical skills based) 
 - Nov 20: End of the year Town Hall 
 - Nov 27: Office Hours Thanksgiving edition 🍂🍗🦃
