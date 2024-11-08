@@ -18,7 +18,7 @@ We are excited to have you here. Our community is dedicated to fostering collabo
 - Nov 27: Office Hours: Thanksgiving edition 🍂🍗🦃
 
 ### December 2024
-- The UI/UX CoP will be taking a break in December 🍁❄️⛄
+- The UI/UX CoP will be taking a break in December 🍁❄️☃️
 - See you in January!🎆🎉 
 
 ### January 2025
