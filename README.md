@@ -11,18 +11,21 @@ We are excited to have you here. Our community is dedicated to fostering collabo
 
 ### Upcoming Meetings
 
-### October Schedule 
-- Oct 02 :  All-Leads Meeting (No UI/UX CoP Meeting) 
-- Oct 09 :  Office hours 
-- Oct 16 :  Career Development: Interview Prep: Elevator Pitch (Soft skills based & best practices)  
-- Oct 23 :  Technical Skills: Getting started with GitHub! 
-- Oct 30 :  No UI/UX CoP Meeting. Happy Halloween!🪄🎃👻
-
 ### November Schedule 
 - Nov 06: All-Leads Meeting (no UI/UX CoP Meeting)
 - Nov 13: Career Development: Interview Prep (Technical skills based) 
 - Nov 20: End of the year Town Hall 
-- Nov 27: Office Hours Thanksgiving edition 🍂🍗🦃
+- Nov 27: Office Hours: Thanksgiving edition 🍂🍗🦃
+
+### December Schedule
+- The UI/UX CoP will be taking a break in December ❄️⛄
+- See you in January!🎆🎉 
+
+### January Schedule
+- Jan 08 - Office Hours & Icebreaker activity 
+- Jan 15 - Career Development: Interview Prep (Technical skills based)
+- Jan 22 - TBD
+- Jan 29 - Fireside Chat: Getting real world experience for your Portfolios! 
 
 
 ## :white_check_mark: Getting Started
