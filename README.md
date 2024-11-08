@@ -11,17 +11,17 @@ We are excited to have you here. Our community is dedicated to fostering collabo
 
 ### Upcoming Meetings
 
-### November Schedule 
+### November 2024 
 - Nov 06: All-Leads Meeting (no UI/UX CoP Meeting)
 - Nov 13: Career Development: Interview Prep (Technical skills based) 
 - Nov 20: End of the year Town Hall 
 - Nov 27: Office Hours: Thanksgiving edition 🍂🍗🦃
 
-### December Schedule
-- The UI/UX CoP will be taking a break in December ❄️⛄
+### December 2024
+- The UI/UX CoP will be taking a break in December 🍁❄️⛄
 - See you in January!🎆🎉 
 
-### January Schedule
+### January 2025
 - Jan 08 - Office Hours & Icebreaker activity 
 - Jan 15 - Career Development: Interview Prep (Technical skills based)
 - Jan 22 - TBD
