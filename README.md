@@ -11,15 +11,17 @@ We are excited to have you here. Our community is dedicated to fostering collabo
 
 ### Upcoming Meetings
 
-### December 2024
-- The UI/UX CoP will be taking a break in December 🍁❄️☃️ 
-- See you in January!🎆🎉 
-
 ### January 2025
-- Jan 08 - Office Hours & Icebreaker activity 
-- Jan 15 - Career Development: Interview Prep (Technical skills based)
-- Jan 22 - TBD
-- Jan 29 - Fireside Chat: Getting real world experience for your Portfolios! 
+- Jan 08 - Office Hours & Welcome Back 🙌  
+- Jan 15 - Office Hours & post-Onboarding support
+- Jan 22 - Office Hours & post-Onboarding support
+- Jan 29 - Career Development: Interview Prep (Technical skills based)
+
+### February 2025
+- Feb 05 - Planning Week (no UI/UX CoP Meeting) 
+- Feb 12 - Fireside Chat: Getting real world experience for your Portfolios!
+- Feb 19 - TBD
+- Feb 26 - TBD
 
 
 ## :white_check_mark: Getting Started
