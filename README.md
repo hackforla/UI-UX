@@ -11,17 +11,17 @@ We are excited to have you here. Our community is dedicated to fostering collabo
 
 ### Upcoming Meetings
 
-### January 2025
-- Jan 08 - Office Hours & Welcome Back 🙌  
-- Jan 15 - Office Hours & post-Onboarding support
-- Jan 22 - Office Hours & post-Onboarding support
-- Jan 29 - Career Development: Interview Prep (Technical skills based)
-
 ### February 2025
 - Feb 05 - Planning Week (no UI/UX CoP Meeting) 
 - Feb 12 - Fireside Chat: Getting real world experience for your Portfolios! 📘 
 - Feb 19 - Fireside Chat: What else can you do with a UX background? Let's chat about UX adjacent careers! 🎯 
-- Feb 26 - UX games & networking! 🎲 
+- Feb 26 - Best practices of Networking!🤝  
+
+### March 2025
+- March 05 - Planning Week (no UI/UX CoP Meeting)
+- March 12 - Technical Skills Development: Interview Prep
+- March 19 - Office Hours 
+- March 26 - Best Practices - Presenting Case Studies during Job Interviews 
 
 
 ## :white_check_mark: Getting Started
