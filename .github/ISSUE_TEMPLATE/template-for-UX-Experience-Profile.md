@@ -82,4 +82,4 @@ Fill in the following fields as you work on these items at Hack for LA. Add the 
 
 ### Conclusion Action Items
 - [ ] This was a good first issue. Once you have completed the steps and checked all relevant boxes, you can close this issue
-- [ ] Use the issue as you contact Project Leads to discuss [UI/UX open roles](https://github.com/orgs/hackforla/projects/67/views/1) 
+- [ ] Use this as your own personal skills' resume! Link this UX Experience Profile when you contact Project Leads to discuss [UI/UX open roles](https://github.com/orgs/hackforla/projects/67/views/1) 
