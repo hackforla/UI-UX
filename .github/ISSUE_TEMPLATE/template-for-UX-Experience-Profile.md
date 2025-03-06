@@ -26,17 +26,8 @@ Fill in the following fields as you work on these items at Hack for LA. Add the 
 ### UI/UX Community of Practice (UI/UX CoP) Action Items
 - [ ] Join our weekly UI/UX Community of Practice meetings (Wednesday, 6PM PST) - use this Zoom Registration
 - [ ] Join this UI/UX Slack channel for all communication/announcements
-- [ ] Take a peek at our UI/UX CoP Wiki - for UI/UX specific resources! 
-
-~~#### Working on Guides~~ (Guides are currently being upgraded. This step can be skipped)  
-- [ ] Read and provide feedback for a Guide
-- [ ] Claim a Guide Issue
-- [ ] Complete a Guide Issue
-- [ ] Post Guide in Wiki
-- [ ] Conduct a Pilot for a Guide
-
-#### Where to find Guides to work on - Review archives of guides
-- [ARCHIVES: UI/UX  Templates and Guides project board](https://github.com/orgs/hackforla/projects/58/views/4)
+- [ ] Take a peek at our UI/UX CoP Wiki - for UI/UX specific resources!
+- ~~[ ] [Guides](https://github.com/orgs/hackforla/projects/58/views/4)~~(Guides are currently being upgraded. This step can be skipped)
 
 ### Project Experience Action Items
 
@@ -88,3 +79,7 @@ Fill in the following fields as you work on these items at Hack for LA. Add the 
 - [ ] Expert review
 - [ ] Heuristic evaluation
 - [ ] Research presentation
+
+### Conclusion Action Items
+- [ ] This was a good first issue. Once you have completed the steps and checked all relevant boxes, you can close this issue
+- [ ] Use the issue as you contact Project Leads to discuss [UI/UX open roles](https://github.com/orgs/hackforla/projects/67/views/1) 
