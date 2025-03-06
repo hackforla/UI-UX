@@ -11,7 +11,7 @@ assignees: ''
 Fill in the following fields as you work on these items at Hack for LA. Add the link of the items you worked on in the list as examples.
 
 ### Onboarding Action Items
-- [ ] Join UX/UI Github (Should happen during onboarding) 
+- [ ] Join UI/UX Github (Should happen during onboarding) 
   - [ ] Confirm that you have been added to Github and make membership public by looking yourself up in our [People DIrectory](https://github.com/orgs/hackforla/people)
 - [ ] Get added to Google Drive (Should happen during onboarding)
    - [ ] Confirm your access by [UI/UX CoP Google Drive Link](https://drive.google.com/drive/folders/1Bw4qy9rQtJ16ccYsRUIg5BlxBxlqnEIQ?usp=sharing)
