@@ -25,8 +25,8 @@ Fill in the following fields as you work on these items at Hack for LA. Add the 
 
 ### UI/UX Community of Practice (UI/UX CoP) Action Items
 - [ ] Join our weekly UI/UX Community of Practice meetings (Wednesday, 6PM PST) - use this Zoom Registration
-- [ ] Join this UI/UX Slack channel for all communication/announcements
-- [ ] Take a peek at our UI/UX CoP Wiki - for UI/UX specific resources!
+- [ ] Join this [UI/UX Slack channel](https://hackforla.slack.com/archives/C017ESHSMNG) for all communication/announcements
+- [ ] Take a peek at our [UI/UX CoP Wiki](https://github.com/hackforla/UI-UX/wiki) - for UI/UX specific resources!
 - [ ] [Guides](https://github.com/orgs/hackforla/projects/58/views/4) are currently being upgraded. This step can be skipped
 
 ### Project Experience Action Items
