@@ -35,7 +35,7 @@ Fill in the following fields as you work on these items at Hack for LA. Add the 
 - [ ] Post Guide in Wiki
 - [ ] Conduct a Pilot for a Guide
 
-#### Where to find Guides to work on
+#### Where to find Guides to work on - Review archives of guides
 - [ARCHIVES: UI/UX  Templates and Guides project board](https://github.com/orgs/hackforla/projects/58/views/4)
 
 ### Project Experience Action Items
