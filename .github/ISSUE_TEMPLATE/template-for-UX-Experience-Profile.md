@@ -2,7 +2,7 @@
 name: UX Experience Profile
 about: UX/UI Community of Practice members keep track of their experience at HfLA
 title: 'UX/UI Experience Profile: YOUR NAME'
-labels: experience profile
+labels: 'experience profile, good first issue'
 assignees: ''
 
 ---
