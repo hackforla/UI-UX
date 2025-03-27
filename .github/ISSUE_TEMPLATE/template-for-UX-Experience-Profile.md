@@ -82,9 +82,21 @@ Fill in the following fields as you work on these items at Hack for LA. Add the 
 - [ ] Expert review
 - [ ] Heuristic evaluation
 - [ ] Research presentation
+<br />
 
 #### Content
-- [ ] Interview 
+- [ ] Content creation
+- [ ] Content testing
+- [ ] Data-driven content analysis
+- [ ] Content auditing
+- [ ] Information architecture
+<br /> 
+
+- [ ] Branding and messaging
+- [ ] Search engine optimization
+- [ ] Content Strategy Development
+- [ ] Establishing accessibility guidance
+- [ ] Visual communication design
 
 
 
