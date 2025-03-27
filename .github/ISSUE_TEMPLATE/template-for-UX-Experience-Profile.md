@@ -3,7 +3,7 @@ name: UX Experience Profile
 about: UI/UX Community of Practice members keep track of their experience at HfLA
 title: 'UI/UX Experience Profile: YOUR NAME'
 labels: 'experience profile, good first issue'
-assignees: ''
+assignees: 'Assign yourself'
 
 ---
 
@@ -12,12 +12,12 @@ Fill in the following fields as you work on these items at Hack for LA. Add the 
 
 ### Onboarding Action Items
 - [ ] Join UI/UX Github (Should happen during onboarding) 
-  - [ ] Confirm that you have been added to Github and make membership public by looking yourself up in our [People DIrectory](https://github.com/orgs/hackforla/people)
+  - [ ] Confirm that you have been added to Github and make membership public by looking yourself up in our [People Directory](https://github.com/orgs/hackforla/people)
 - [ ] Get added to Google Drive (Should happen during onboarding)
    - [ ] Confirm your access by [UI/UX CoP Google Drive Link](https://drive.google.com/drive/folders/1Bw4qy9rQtJ16ccYsRUIg5BlxBxlqnEIQ?usp=sharing)
 - [ ] Set up [2FA](https://www.hackforla.org/guide-pages/2FA.html) on Github (Should happen during onboarding)
   - [ ] Confirm 2FA Status by clicking here to go to [your GitHub account>settings>account security](https://github.com/settings/security) and look for the disabled *Enable* button
-- [ ] Read the guide [Wgat is a Kanban Board by Atlassian](https://www.atlassian.com/agile/kanban/boards)
+- [ ] Read the guide [What is a Kanban Board by Atlassian](https://www.atlassian.com/agile/kanban/boards)
 - [ ] All Hack for LA teams use Figma for our collaborative design. New to Figma? Learn more: [Figma for Beginners videos 1-4](https://www.youtube.com/watch?v=dXQ7IHkTiMM&ab_channel=Figma)  
 - [ ] All Hack for LA teams generally work in an Agile framework. Read more about Agile and how it relates to Kanban [HERE](https://www.atlassian.com/agile).
 - [ ] Check out the [open Design roles](https://github.com/orgs/hackforla/projects/67/views/4), [open Research roles](https://github.com/orgs/hackforla/projects/67/views/8), [open Content roles](https://github.com/orgs/hackforla/projects/67/views/9) we have available.
@@ -79,6 +79,12 @@ Fill in the following fields as you work on these items at Hack for LA. Add the 
 - [ ] Expert review
 - [ ] Heuristic evaluation
 - [ ] Research presentation
+
+#### Content
+- [ ] Interview
+- [ ] 
+
+
 
 ### Conclusion Action Items
 - [ ] This was a good first issue. Once you have completed the steps and checked all relevant boxes, you can close this issue
