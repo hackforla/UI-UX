@@ -3,7 +3,7 @@ name: UX Experience Profile
 about: UI/UX Community of Practice members keep track of their experience at HfLA
 title: 'UI/UX Experience Profile: YOUR NAME'
 labels: 'experience profile, good first issue'
-assignees: 'Assign yourself'
+assignees: ''
 
 ---
 
@@ -98,8 +98,9 @@ Fill in the following fields as you work on these items at Hack for LA. Add the 
 - [ ] Establishing accessibility guidance
 - [ ] Visual communication design
 
-
+### GitHub Practice Action Items
+- [ ] Assign yourself to this issue 
+- [ ] This was a good first issue. Once you have completed the steps and checked all relevant boxes, you can [close this issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/administering-issues/closing-an-issue)
 
 ### Conclusion Action Items
-- [ ] This was a good first issue. Once you have completed the steps and checked all relevant boxes, you can [close this issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/administering-issues/closing-an-issue)
 - [ ] Use this as your own personal skills' resume! Link this UX Experience Profile when you contact Project Leads to discuss [UI/UX open roles](https://github.com/orgs/hackforla/projects/67/views/1) 
