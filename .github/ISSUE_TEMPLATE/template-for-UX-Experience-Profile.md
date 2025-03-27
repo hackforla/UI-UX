@@ -24,7 +24,10 @@ Fill in the following fields as you work on these items at Hack for LA. Add the 
 - [ ] Additional viewing for designers, Jennie Yip, [Reimagining Atlassian Design System](https://www.youtube.com/watch?v=_pfyLVXTVSQ)
 
 ### UI/UX Community of Practice (UI/UX CoP) Action Items
-- [ ] Join our weekly UI/UX Community of Practice meetings (Wednesday, 6PM PST) - use this Zoom Registration
+- [ ] Join our weekly UI/UX Community of Practice meetings (Wednesday, 6PM PT) - use this [Zoom Registration Link](https://us06web.zoom.us/meeting/register/tZ0ofu6rpjsoHdKRfGoRGKwcm44z7MqfMZX5) to join our weekly meetings.
+    - [ ] You Email address should have an associated Zoom account in order to register
+    - [ ] Add this Zoom weekly meeting to your preferred Calendar
+    - [ ] Our upcoming meeting and [schedule can be found here](https://github.com/hackforla/UI-UX/wiki#upcoming-meetings-)
 - [ ] Join this [UI/UX Slack channel](https://hackforla.slack.com/archives/C017ESHSMNG) for all communication/announcements
 - [ ] Take a peek at our [UI/UX CoP Wiki](https://github.com/hackforla/UI-UX/wiki) - for UI/UX specific resources!
 - [ ] [Guides](https://github.com/orgs/hackforla/projects/58/views/4) are currently being upgraded. This step can be skipped
@@ -81,8 +84,7 @@ Fill in the following fields as you work on these items at Hack for LA. Add the 
 - [ ] Research presentation
 
 #### Content
-- [ ] Interview
-- [ ] 
+- [ ] Interview 
 
 
 
