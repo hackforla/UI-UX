@@ -82,7 +82,7 @@ Fill in the following fields as you work on these items at Hack for LA. Add the 
 - [ ] Expert review
 - [ ] Heuristic evaluation
 - [ ] Research presentation
-<br />
+
 
 #### Content
 - [ ] Content creation
