@@ -3,13 +3,12 @@ name: UX Experience Profile
 about: UI/UX Community of Practice members keep track of their experience at HfLA
 title: 'UI/UX Experience Profile: YOUR NAME'
 labels: 'experience profile, good first issue'
-assignees: ''
-projects: 'CoP: UI/UX: Project Board'
+
 
 ---
 
 ### Overview
-Fill in the following fields as you work on these items at Hack for LA. Add the link of the items you worked on in the list as examples.
+Fill in the following fields as you work on these items at Hack for LA.  
 
 ### Onboarding Action Items
 - [ ] Join UI/UX Github (Should happen during onboarding) 
