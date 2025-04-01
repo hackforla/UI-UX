@@ -100,8 +100,8 @@ Fill in the following fields as you work on these items at Hack for LA. Add the 
 - [ ] Visual communication design
 
 ### GitHub Practice Action Items
-- [ ] Assign yourself to this issue. In the right side menu, click 'Assignees' [Select 'assign yourself'](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/assigning-issues-and-pull-requests-to-other-github-users)
-- [ ] Assign this issue to the CoP: UI/UX: Project Board. In the right side menu, click 'Projects' Select project 'CoP: UI/UX: Project Board' from the drop-down menu
+- [ ] Assign yourself to this issue. In the right side menu, click 'Assignees.' [Select 'assign yourself'](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/assigning-issues-and-pull-requests-to-other-github-users)
+- [ ] Assign this issue to the [CoP: UI/UX: Project Board](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-items-in-your-project/adding-items-to-your-project). In the right side menu, click 'Projects.' Select project 'CoP: UI/UX: Project Board' from the drop-down menu
 - [ ] This was a good first issue. Once you have completed the steps and checked all relevant boxes, you can [close this issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/administering-issues/closing-an-issue)
 
 ### Conclusion Action Items
