@@ -11,18 +11,9 @@ We are excited to have you here. Our community is dedicated to fostering collabo
 
 ### Upcoming Meetings
 
-### March 2025
-- March 05 - Planning Week (no UI/UX CoP Meeting)
-- March 12 - Technical Skills Development: Interview Prep 🖥️ 
-- March 19 - Office Hours 
-- March 26 - Workshop: Best Practices - Presenting Case Studies during Job Interviews 📔 
-
 ### April 2025
-- April 02 - Planning Week (no UI/UX CoP Meeting)
-- April 09 - Career Development: Crafting your About Me & pitching your personality! 🤝🤺⚽🎨 
-- April 16 - Office Hours
-- April 23 - Career Development: Job Boards!📈
-- April 30 - Career Development: Developing your Leadership skills! 🗣️ 
+- UI/UX CoP on hiatus due to [TDM-Calculator](https://ladot.lacity.gov/tdmcalculator) all-team collaboration
+- [TDM-Calculator GitHub Repository](https://github.com/hackforla/tdm-calculator)
 
 
 ## :white_check_mark: Getting Started
