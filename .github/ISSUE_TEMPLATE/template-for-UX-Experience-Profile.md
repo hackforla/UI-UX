@@ -86,8 +86,8 @@ Fill in the following fields as you work on these items at Hack for LA.
 #### Content
 - [ ] UX Content Writing 
 - [ ] Content testing
-- [ ] Data-driven content analysis
-- [ ] Content auditing
+- [ ] Data-driven Content Analysis
+- [ ] Content Auditing
 <br /> 
 
 - [ ] Content guidelines - style, tone, style, tone, voice, grammar
