@@ -88,16 +88,14 @@ Fill in the following fields as you work on these items at Hack for LA.
 - [ ] Content testing
 - [ ] Data-driven Content Analysis
 - [ ] Content Auditing
-<br /> 
-
 - [ ] Content guidelines - style, tone, style, tone, voice, grammar
-- [ ] Visual communication design
-<br />
+<br /> 
 
 - [ ] Branding and messaging
 - [ ] Search engine optimization
 - [ ] Content Strategy Development
 - [ ] Content Modeling
+- [ ] Visual communication design
 - [ ] Copywriting (promotional or informational writing)
 - [ ] Technical Writing (support docs, training content)
 
