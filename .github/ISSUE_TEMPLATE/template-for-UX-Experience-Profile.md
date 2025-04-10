@@ -51,7 +51,6 @@ Fill in the following fields as you work on these items at Hack for LA.
 - [ ] Design evaluation
 - [ ] Design System
 - [ ] Group design ideation
-- [ ] Accessibility
 - [ ] Responsive design
 - [ ] Logo design
 - [ ] Icons, vector graphics, and photos
@@ -85,18 +84,27 @@ Fill in the following fields as you work on these items at Hack for LA.
 
 
 #### Content
-- [ ] Content creation
+- [ ] UX Content Writing 
 - [ ] Content testing
 - [ ] Data-driven content analysis
 - [ ] Content auditing
-- [ ] Information architecture
 <br /> 
+
+- [ ] Content guidelines - style, tone, style, tone, voice, grammar
+- [ ] Visual communication design
+<br />
 
 - [ ] Branding and messaging
 - [ ] Search engine optimization
 - [ ] Content Strategy Development
-- [ ] Establishing accessibility guidance
-- [ ] Visual communication design
+- [ ] Content Modeling
+- [ ] Copywriting (promotional or informational writing)
+- [ ] Technical Writing (support docs, training content)
+
+#### Design, Research, Content
+- [ ] Inclusivity and Accessibility standards
+- [ ] Information Architecture
+
 
 ### GitHub Practice Action Items
 - [ ] Assign yourself to this issue. In the right side menu, click 'Assignees.' [Select 'assign yourself'](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/assigning-issues-and-pull-requests-to-other-github-users)
