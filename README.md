@@ -13,7 +13,7 @@ We are excited to have you here. Our community is dedicated to fostering collabo
 
 ### April 2025
 - UI/UX CoP on hiatus due to [TDM-Calculator](https://github.com/hackforla/tdm-calculator) all-team collaboration
-- Only Office Hours for post-onboarding support
+- Only **Office Hours for post-onboarding support**
 - April 02 - Planning Week (no UI/UX CoP Meeting)
 - April 09 - No UI/UX CoP Meeting  
 - April 16 - Office Hours
