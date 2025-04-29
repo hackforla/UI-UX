@@ -12,8 +12,7 @@ We are excited to have you here. Our community is dedicated to fostering collabo
 ### Upcoming Meetings
 
 ### April 2025
-- UI/UX CoP on hiatus due to [TDM-Calculator](https://ladot.lacity.gov/tdmcalculator) all-team collaboration
-- [TDM-Calculator GitHub Repository](https://github.com/hackforla/tdm-calculator)
+- UI/UX CoP on hiatus due to [TDM-Calculator](https://github.com/hackforla/tdm-calculator) all-team collaboration
 - April 02 - Planning Week (no UI/UX CoP Meeting)
 - April 09 - No UI/UX CoP Meeting  
 - April 16 - Office Hours
