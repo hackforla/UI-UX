@@ -46,7 +46,7 @@ At Hack For LA and the UI/UX CoP we use specific tools and processes to contribu
    - [Figma for Beginners Youtube videos](https://www.youtube.com/watch?v=dXQ7IHkTiMM&ab_channel=Figma)
    
 ### Step 4. Join the CoP Meetings  
-1. Join our weekly UI/UX Community of Practice meeting Wednesday at 6 pm PST via [Zoom](https://us06web.zoom.us/j/89597380276?pwd=TWFxajJmMnd1YXBBM05GSHNYdElSQT09).
+1. Join our weekly UI/UX Community of Practice meeting Wednesday at 6 PM PT via Zoom. Onboard to know more! [Onboarding schedule here](https://www.meetup.com/hackforla/)
 2. Participate in discussions and activities during meetings.
 
 ### Step 5. Engage and Contribute
@@ -61,7 +61,7 @@ At Hack For LA and the UI/UX CoP we use specific tools and processes to contribu
 The UI/UX Community of Practice is one of many. [See all of our Communities of Practice](https://github.com/hackforla/communities-of-practice/blob/main/README.md)
 
 ## :handshake: Support and Assistance
-We will be implementing a support ticketing system soon. In the meantime, if you have any questions or need help, please reach out in the [ui-ux Slack Channel](https://hackforla.slack.com/archives/C017ESHSMNG) or join us during our CoP meeting on [Zoom](https://us06web.zoom.us/j/89597380276?pwd=TWFxajJmMnd1YXBBM05GSHNYdElSQT09) :)
+We will be implementing a support ticketing system soon. In the meantime, if you have any questions or need help, please reach out in the [ui-ux Slack Channel](https://hackforla.slack.com/archives/C017ESHSMNG) or join us during our CoP meeting on Zoom. Onboard to know more! [Onboarding schedule here](https://www.meetup.com/hackforla/)
 
 
 ![Header for Forms-2](https://github.com/user-attachments/assets/c7913dae-7be0-4de6-9392-39f71d3143c3)
