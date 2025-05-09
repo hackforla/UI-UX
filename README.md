@@ -11,14 +11,17 @@ We are excited to have you here. Our community is dedicated to fostering collabo
 
 ### Upcoming Meetings
 
-### April 2025
-- UI/UX CoP on hiatus due to [TDM-Calculator](https://github.com/hackforla/tdm-calculator) all-team collaboration
-- Only **Office Hours for post-onboarding support**
-- April 02 - Planning Week (no UI/UX CoP Meeting)
-- April 09 - No UI/UX CoP Meeting  
-- April 16 - Office Hours
-- April 23 - No UI/UX CoP Meeting  
-- April 30 - Office Hours
+### May 2025
+- May 08 - Planning Week (no UI/UX CoP Meeting)
+- May 14 - Office Hours
+- May 21 - TDM - Calculator - How to craft a case study from your April all-team collab experience! PART 1
+- May 28 - TDM - Calculator - How to craft a case study from your April all-team collab experience! PART 2
+
+### June 2025
+- June 04 - Planning Week (no UI/UX CoP Meeting)
+- June 11 - Career Development: Job Boards! 📈
+- June 18 - Office Hours
+- June 25 - Career Development: Developing your Leadership skills! 🗣️ 
 
 
 ## :white_check_mark: Getting Started
