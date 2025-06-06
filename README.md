@@ -11,17 +11,15 @@ We are excited to have you here. Our community is dedicated to fostering collabo
 
 ### Upcoming Meetings
 
-### May 2025
-- May 08 - Planning Week (no UI/UX CoP Meeting)
-- May 14 - Office Hours
-- May 21 - TDM - Calculator - How to craft a case study from your April all-team collab experience! PART 1
-- May 28 - TDM - Calculator - How to craft a case study from your April all-team collab experience! PART 2
-
 ### June 2025
 - June 04 - Planning Week (no UI/UX CoP Meeting)
-- June 11 - Career Development: Job Boards! 📈
-- June 18 - Office Hours
-- June 25 - Career Development: Developing your Leadership skills! 🗣️ 
+- June 11 - No UI/UX CoP Meeting
+- June 18 - No UI/UX CoP Meeting
+- June 25 - Career Development: Job Boards!📝📈 
+
+### July 2025
+- Hack for LA taking a summer break in July! See you in August 🙌🌞🍹🏖️
+- Join our [Hack for LA Member Summer Potluck Picnic!](https://www.meetup.com/hackforla/events/302274209/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link)
 
 
 ## :white_check_mark: Getting Started
