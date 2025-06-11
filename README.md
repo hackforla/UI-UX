@@ -62,7 +62,7 @@ At Hack For LA and the UI/UX CoP we use specific tools and processes to contribu
 The UI/UX Community of Practice is one of many. [See all of our Communities of Practice](https://github.com/hackforla/communities-of-practice/blob/main/README.md)
 
 ## :handshake: Support and Assistance
-We will be implementing a support ticketing system soon. In the meantime, if you have any questions or need help, please reach out in the [ui-ux Slack Channel](https://hackforla.slack.com/archives/C017ESHSMNG) or join us during our CoP meeting on [Zoom](https://us06web.zoom.us/meeting/register/tZ0ofu6rpjsoHdKRfGoRGKwcm44z7MqfMZX5?_x_zm_rtaid=nWvZnI8rSVSLDb0JkxkySA.1745896069679.34c2a973790dd6a8096e137ccb586cb5&_x_zm_rhtaid=575#/registration). Onboard to know more! [Onboarding schedule here](https://www.meetup.com/hackforla/)
+We will be implementing a support ticketing system soon. In the meantime, if you have any questions or need help, please reach out in the [ui-ux Slack Channel](https://hackforla.slack.com/archives/C017ESHSMNG) or join us during our CoP meeting on Zoom. Onboard to know more! [Onboarding schedule here](https://www.meetup.com/hackforla/)
 
 
 ![Header for Forms-2](https://github.com/user-attachments/assets/c7913dae-7be0-4de6-9392-39f71d3143c3)
