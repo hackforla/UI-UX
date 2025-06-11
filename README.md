@@ -47,7 +47,7 @@ At Hack For LA and the UI/UX CoP we use specific tools and processes to contribu
    - [Figma for Beginners Youtube videos](https://www.youtube.com/watch?v=dXQ7IHkTiMM&ab_channel=Figma)
    
 ### Step 4. Join the CoP Meetings  
-1. Join our weekly UI/UX Community of Practice meeting Wednesday at 6PM PT via [Zoom](https://us06web.zoom.us/meeting/register/tZ0ofu6rpjsoHdKRfGoRGKwcm44z7MqfMZX5?_x_zm_rtaid=nWvZnI8rSVSLDb0JkxkySA.1745896069679.34c2a973790dd6a8096e137ccb586cb5&_x_zm_rhtaid=575#/registration). Onboard to know more! [Onboarding schedule here](https://www.meetup.com/hackforla/)
+1. Join our weekly UI/UX Community of Practice meeting Wednesday at 6PM PT via [Zoom]. Onboard to know more! [Onboarding schedule here](https://www.meetup.com/hackforla/)
 2. Participate in discussions and activities during meetings.
 
 ### Step 5. Engage and Contribute
