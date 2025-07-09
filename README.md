@@ -56,7 +56,7 @@ At Hack For LA and the UI/UX CoP we use specific tools and processes to contribu
    - [Research](https://github.com/orgs/hackforla/projects/67/views/8)
    - [Content](https://github.com/orgs/hackforla/projects/67/views/9)
 2. Get started on a [Guide](https://github.com/orgs/hackforla/projects/58/views/4)
-3. Create your own [UX Experience Profile](https://github.com/hackforla/UI-UX/projects/5) to keep track of your progress.
+3. Create your own [UX Experience Profile](https://github.com/hackforla/UI-UX/issues) to keep track of your progress.
  
 ## :books: Additional Resources
 The UI/UX Community of Practice is one of many. [See all of our Communities of Practice](https://github.com/hackforla/communities-of-practice/blob/main/README.md)
