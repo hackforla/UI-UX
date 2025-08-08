@@ -11,15 +11,17 @@ We are excited to have you here. Our community is dedicated to fostering collabo
 
 ### Upcoming Meetings
 
-### June 2025
-- June 04 - Planning Week (no UI/UX CoP Meeting)
-- June 11 - No UI/UX CoP Meeting
-- June 18 - No UI/UX CoP Meeting
-- June 25 - Career Development: Job Boards!📝📈 
+### August 2025
+- August 06 - Planning Week (no UI/UX CoP Meeting)
+- August 13 - Community Meetups
+- August 20 - Career Development: Job Boards!📝📈
+- August 27 - Community Meetups
 
-### July 2025
-- Hack for LA taking a summer break in July! See you in August 🙌🌞🍹🏖️
-- Join our [Hack for LA Member Summer Potluck Picnic!](https://www.meetup.com/hackforla/events/302274209/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link)
+### September 2025
+- September 03 - Planning Week (no UI/UX CoP Meeting)
+- September 10 - Community Meetups
+- September 17 - Case Study Presentation/ Walkthrough
+- September 24 - Community Meetups
 
 
 ## :white_check_mark: Getting Started
