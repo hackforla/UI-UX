@@ -13,15 +13,15 @@ We are excited to have you here. Our community is dedicated to fostering collabo
 
 ### August 2025
 - August 06 - Planning Week (no UI/UX CoP Meeting)
-- August 13 - Community Meetups
+- August 13 - Community Meetup 👥📍🙌 
 - August 20 - Career Development: Job Boards!📝📈
-- August 27 - Community Meetups
+- August 27 - Community Meetup 👥🤝🙌 
 
 ### September 2025
 - September 03 - Planning Week (no UI/UX CoP Meeting)
-- September 10 - Community Meetups
-- September 17 - Case Study Presentation/ Walkthrough
-- September 24 - Community Meetups
+- September 10 - Community Meetup 👥📍🙌 
+- September 17 - Case Study Presentation/ Walkthrough 👩🏻‍💻📘📝 
+- September 24 - Community Meetup 👥🤝🙌 
 
 
 ## :white_check_mark: Getting Started
