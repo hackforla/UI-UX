@@ -14,8 +14,8 @@ We are excited to have you here. Our community is dedicated to fostering collabo
 ### August 2025
 - August 06 - Planning Week (no UI/UX CoP Meeting)
 - August 13 - Community Meetup 👥📍🙌 
-- August 20 - Career Development: Job Boards!📝📈
-- August 27 - Community Meetup 👥🤝🙌 
+- August 20 - Community Meetup 👥🤝🙌 
+- August 27 - Career Development: Job Boards!📝📈 
 
 ### September 2025
 - September 03 - Planning Week (no UI/UX CoP Meeting)
