@@ -11,18 +11,18 @@ We are excited to have you here. Our community is dedicated to fostering collabo
 
 ### Upcoming Meetings
 
-### August 2025
-- August 06 - Planning Week (no UI/UX CoP Meeting)
-- August 13 - Community Meetup 👥📍🙌 
-- August 20 - Community Meetup 👥🤝🙌 
-- August 27 - Career Development: Job Boards!📝📈 
-
 ### September 2025
 - September 03 - Planning Week (no UI/UX CoP Meeting)
 - September 10 - Community Meetup 👥📍🙌 
 - September 17 - Case Study Presentation/ Walkthrough 👩🏻‍💻📘📝 
 - September 24 - Community Meetup 👥🤝🙌 
 
+### October 2025
+- October 01 - Planning Week (no UI/UX CoP Meeting)
+- October 08 - Community Meetup 👥📍🙌 
+- October 15 - ReOps Tools & Best Practices
+- October 22 - Community Meetup 👥📍🙌 
+- October 29 - Guest Speaker (TBD) 
 
 ## :white_check_mark: Getting Started
 ### Step 1. Complete General Onboarding
