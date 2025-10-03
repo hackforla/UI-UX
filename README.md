@@ -14,9 +14,18 @@ We are excited to have you here. Our community is dedicated to fostering collabo
 ### October 2025
 - October 01 - Planning Week (no UI/UX CoP Meeting)
 - October 08 - Community Meetup 👥📍🙌 
-- October 15 - ReOps Tools & Best Practices
+- October 15 - Fireside Chat: UX Reading Resources! 📚 
 - October 22 - Community Meetup 👥📍🙌 
-- October 29 - Guest Speaker (TBD) 
+- October 29 - Workshop: Case Study Presentation by UI/UX Community Member Jovy Flagg 🔖 
+
+### November 2025
+- November 05 - Planning Week (no UI/UX CoP Meeting) 
+- November 12 - Community Meetup 👥📍🙌 
+- November 19 - Fireside Chat: ReOps Tools & Best Practices 🧰
+- November 26 - Thanksgiving Break! Happy Thanksgiving! 🦃🍁🍗🍂 
+
+### December 2025
+- Winter Break! See you on the New Year!☃️❄️🎆 
 
 ## :white_check_mark: Getting Started
 ### Step 1. Complete General Onboarding
