@@ -25,7 +25,7 @@ We are excited to have you here. Our community is dedicated to fostering collabo
 - November 26 - Thanksgiving Break! Happy Thanksgiving! 🦃🍁🍗🍂🌽
 
 ### December 2025
-- Winter Break! See you on the New Year!☃️❄️🎆 
+- Winter Break! See you in the New Year!☃️❄️🎆 
 
 ## :white_check_mark: Getting Started
 ### Step 1. Complete General Onboarding
