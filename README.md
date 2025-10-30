@@ -16,11 +16,11 @@ We are excited to have you here. Our community is dedicated to fostering collabo
 - October 08 - Community Meetup 👥📍🙌 
 - October 15 - Fireside Chat: UX Reading Resources! 📚 
 - October 22 - Community Meetup 👥📍🙌 
-- October 29 - Workshop: Case Study Presentation by UI/UX Community Member Jovy Flagg 🔖 
+- October 29 - Community Meetup 👥📍🙌 
 
 ### November 2025
 - November 05 - Planning Week (no UI/UX CoP Meeting) 
-- November 12 - Community Meetup 👥📍🙌 
+- November 12 - Workshop: Case Study Presentation by UI/UX Community Member Jovy Flagg 🔖
 - November 19 - Fireside Chat: ReOps Tools & Best Practices 🧰
 - November 26 - Thanksgiving Break! Happy Thanksgiving! 🦃🍁🍗🍂🌽
 
