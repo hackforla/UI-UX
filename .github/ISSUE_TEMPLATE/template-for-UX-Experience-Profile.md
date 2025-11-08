@@ -38,7 +38,7 @@ Fill in the following fields as you work on these items at Hack for LA.
 - [ ] All Hack for LA teams use Figma for our collaborative design. New to Figma? Learn more: [Figma for Beginners videos 1-4](https://www.youtube.com/watch?v=dXQ7IHkTiMM&ab_channel=Figma)  
 - [ ] All Hack for LA teams generally work in an Agile framework. Read more about Agile and how it relates to Kanban [HERE](https://www.atlassian.com/agile).
 - [ ] Additional viewing for designers, Jennie Yip, [Reimagining Atlassian Design System](https://www.youtube.com/watch?v=_pfyLVXTVSQ)
-- [ ] [Hack for LA Guides](https://github.com/orgs/hackforla/projects/58/views/4) are currently being upgraded. This step can be skipped!
+- [ ] [Hack for LA Guides](https://github.com/hackforla/guides/wiki) are currently being upgraded. This step can be skipped!
 
 
 ### Project Experience Action Items
