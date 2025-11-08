@@ -25,8 +25,7 @@ Fill in the following fields as you work on these items at Hack for LA.
 - [ ] Read the guide [What is a Kanban Board by Atlassian](https://www.atlassian.com/agile/kanban/boards)
 - [ ] All Hack for LA teams use Figma for our collaborative design. New to Figma? Learn more: [Figma for Beginners videos 1-4](https://www.youtube.com/watch?v=dXQ7IHkTiMM&ab_channel=Figma)  
 - [ ] All Hack for LA teams generally work in an Agile framework. Read more about Agile and how it relates to Kanban [HERE](https://www.atlassian.com/agile).
-- [ ] Check out the [open Design roles](https://github.com/orgs/hackforla/projects/67/views/4), [open Research roles](https://github.com/orgs/hackforla/projects/67/views/8), [open Content roles](https://github.com/orgs/hackforla/projects/67/views/9) we have available.
-- [ ] Additional viewing for designers, Jennie Yip, [Reimagining Atlassian Design System](https://www.youtube.com/watch?v=_pfyLVXTVSQ)
+
 
 ### UI/UX Community of Practice (UI/UX CoP) Action Items
 - [ ] Join our weekly UI/UX Community of Practice meetings (Wednesday, 6PM PT) - use this [Zoom Registration Link](https://us06web.zoom.us/meeting/register/tZ0ofu6rpjsoHdKRfGoRGKwcm44z7MqfMZX5) to join our weekly meetings.
@@ -35,6 +34,8 @@ Fill in the following fields as you work on these items at Hack for LA.
     - [ ] Our upcoming meeting and [schedule can be found here](https://github.com/hackforla/UI-UX/wiki#upcoming-meetings-)
 - [ ] Join this [UI/UX Slack channel](https://hackforla.slack.com/archives/C017ESHSMNG) for all communication/announcements. Introduce yourself on our UI/UX Slack channel
 - [ ] Take a peek at our [UI/UX CoP Wiki](https://github.com/hackforla/UI-UX/wiki) - for UI/UX specific resources!
+- [ ] Check out the [open Design roles](https://github.com/orgs/hackforla/projects/67/views/4), [open Research roles](https://github.com/orgs/hackforla/projects/67/views/8), [open Content roles](https://github.com/orgs/hackforla/projects/67/views/9) we have available.
+- [ ] Additional viewing for designers, Jennie Yip, [Reimagining Atlassian Design System](https://www.youtube.com/watch?v=_pfyLVXTVSQ)
 - [ ] [Guides](https://github.com/orgs/hackforla/projects/58/views/4) are currently being upgraded. This step can be skipped
 
 ### Project Experience Action Items
