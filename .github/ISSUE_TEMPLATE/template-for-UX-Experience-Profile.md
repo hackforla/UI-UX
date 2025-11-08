@@ -10,6 +10,11 @@ assignees: ''
 ### Overview
 Fill in the following fields as you work on these items at Hack for LA.  
 
+### GitHub Practice Action Items
+- [ ] Assign yourself to this issue. In the right side menu, click 'Assignees.' [Select 'assign yourself'](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/assigning-issues-and-pull-requests-to-other-github-users)
+- [ ] Assign this issue to the [CoP: UI/UX: Project Board](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-items-in-your-project/adding-items-to-your-project). In the right side menu, click 'Projects.' Select project 'CoP: UI/UX: Project Board' from the drop-down menu.
+- [ ] Click 'Status' under the '[CoP: UI/UX: Project Board](https://docs.github.com/en/issues/tracking-your-work-with-issues/learning-about-issues/quickstart#adding-the-issue-to-a-project)'. Select 'In Progress (actively working) radio button from the drop-down menu.
+
 ### Onboarding Action Items
 - [ ] Join UI/UX Github (Should happen during onboarding) 
   - [ ] Confirm that you have been added to Github and make membership public by looking yourself up in our [People Directory](https://github.com/orgs/hackforla/people)
@@ -104,11 +109,7 @@ Fill in the following fields as you work on these items at Hack for LA.
 - [ ] Information Architecture
 
 
-### GitHub Practice Action Items
-- [ ] Assign yourself to this issue. In the right side menu, click 'Assignees.' [Select 'assign yourself'](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/assigning-issues-and-pull-requests-to-other-github-users)
-- [ ] Assign this issue to the [CoP: UI/UX: Project Board](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-items-in-your-project/adding-items-to-your-project). In the right side menu, click 'Projects.' Select project 'CoP: UI/UX: Project Board' from the drop-down menu.
-- [ ] Click 'Status' under the '[CoP: UI/UX: Project Board](https://docs.github.com/en/issues/tracking-your-work-with-issues/learning-about-issues/quickstart#adding-the-issue-to-a-project)'. Select 'In Progress (actively working) radio button from the drop-down menu.
+### Conclusion Action Items
+- [ ] Use this as your own personal skills' resume! Link this UX Experience Profile when you contact Project Leads to discuss [UI/UX open roles](https://github.com/orgs/hackforla/projects/67/views/1)
 - [ ] This was a good first issue. Once you have completed the steps and checked all relevant boxes, you can [close this issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/administering-issues/closing-an-issue)
 
-### Conclusion Action Items
-- [ ] Use this as your own personal skills' resume! Link this UX Experience Profile when you contact Project Leads to discuss [UI/UX open roles](https://github.com/orgs/hackforla/projects/67/views/1) 
