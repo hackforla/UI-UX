@@ -11,13 +11,6 @@ We are excited to have you here. Our community is dedicated to fostering collabo
 
 ### Upcoming Meetings
 
-### October 2025
-- October 01 - Planning Week (no UI/UX CoP Meeting)
-- October 08 - Community Meetup 👥📍🙌 
-- October 15 - Fireside Chat: UX Reading Resources! 📚 
-- October 22 - Community Meetup 👥📍🙌 
-- October 29 - Community Meetup 👥📍🙌 
-
 ### November 2025
 - November 05 - Planning Week (no UI/UX CoP Meeting) 
 - November 12 - Workshop: Case Study Presentation by UI/UX Community Member Jovy Flagg 🔖
@@ -25,7 +18,13 @@ We are excited to have you here. Our community is dedicated to fostering collabo
 - November 26 - Thanksgiving Break! Happy Thanksgiving! 🦃🍁🍗🍂🌽
 
 ### December 2025
-- Winter Break! See you in the New Year!☃️❄️🎆 
+- Winter Break! See you in the New Year!☃️❄️🎆
+
+### January 2026
+- January 07 - Planning Week (no UI/UX CoP Meeting)
+- January 14 - Community Meetup 👥📍🙌
+- January 21 - Community Meetup 👥📍🙌
+- January 28 - Guest Speaker 📢🗣️  
 
 ## :white_check_mark: Getting Started
 ### Step 1. Complete General Onboarding
