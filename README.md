@@ -13,7 +13,7 @@ We are excited to have you here. Our community is dedicated to fostering collabo
 
 ### November 2025
 - November 05 - Planning Week (no UI/UX CoP Meeting) 
-- November 12 - Workshop: Case Study Presentation by UI/UX Community Member Jovy Flagg 🔖
+- November 12 - Community Meetup 👥📍🙌
 - November 19 - Fireside Chat: ReOps Tools & Best Practices 🧰
 - November 26 - Thanksgiving Break! Happy Thanksgiving! 🦃🍁🍗🍂🌽
 
