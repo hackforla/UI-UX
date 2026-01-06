@@ -11,15 +11,6 @@ We are excited to have you here. Our community is dedicated to fostering collabo
 
 ### Upcoming Meetings
 
-### November 2025
-- November 05 - Planning Week (no UI/UX CoP Meeting) 
-- November 12 - Community Meetup 👥📍🙌
-- November 19 - Fireside Chat: ReOps Tools & Best Practices 🧰
-- November 26 - Thanksgiving Break! Happy Thanksgiving! 🦃🍁🍗🍂🌽
-
-### December 2025
-- Winter Break! See you in the New Year!☃️❄️🎆
-
 ### January 2026
 - January 07 - Planning Week (no UI/UX CoP Meeting)
 - January 14 - Community Meetup 👥📍🙌
