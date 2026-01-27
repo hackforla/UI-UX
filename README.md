@@ -15,13 +15,13 @@ We are excited to have you here. Our community is dedicated to fostering collabo
 - January 07 - Planning Week (no UI/UX CoP Meeting)
 - January 14 - WELCOME BACK! Community Meetup 👥📍🙌
 - January 21 - Community Meetup 👥📍🙌
-- January 28 - Guest Speaker: TDM Calculator Research Team 📢🗣️  
+- January 28 - Community Meetup 👥📍🙌
 
 ### February 2026
 - February 04 - Planning Week (no UI/UX CoP Meeting)
 - February 11 - Community Meetup 👥📍🙌
-- February 18 - Fireside Chat: ReOps Tools & Best Practices 🧰 
-- February 25 - Community Meetup 👥📍🙌
+- February 18 - Community Meetup 👥📍🙌
+- February 25 - Guest Speaker: TDM Calculator Research Team 📢🗣️
 
 
 ## :white_check_mark: Getting Started
