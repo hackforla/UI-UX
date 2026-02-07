@@ -14,7 +14,7 @@ The person who creates this issue should use links in the section "Resources for
   - Year
     - [ ] Find/Replace `[Replace YEAR]` with the year that the talk will take place (Four digit format, ex: "2024")
   - Guest Speaker Name
-    - [ ] Find/Replace `[Replace NAME OF GUEST SPEAKER]` with the first name and last name initial. If there is more than one guest speaker representing a specific organization, use the name of the organization (e.g., "Maze")
+    - [ ] Find/Replace `[Replace NAME OF GUEST SPEAKER]` with the first name and last name initial. If there is more than one guest speaker representing a specific organization, use the name of the organization (e.g., "Hack for LA")
   - Date of Talk
     - [ ] Find/Replace `[Replace MONTH DAY OF TALK]` with the month and day of the presentation (ex: "May 07") 
 - Update the issue title
