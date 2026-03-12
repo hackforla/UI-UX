@@ -22,7 +22,7 @@ We are excited to have you here. Our community is dedicated to fostering collabo
 - April 08 - Community Meetup 👥📍🙌
 - April 15 - Community Meetup 👥📍🙌
 - April 22 - Community Meetup 👥📍🙌
-- April 29 - Workshop (TBD)
+- April 29 - Workshop: Portfolio & Case Study Review - Best Practices 💻📚
 
 
 ## :white_check_mark: Getting Started
