@@ -16,13 +16,13 @@ We are excited to have you here. Our community is dedicated to fostering collabo
 - April 08 - Community Meetup 👥📍🙌
 - April 15 - Community Meetup 👥📍🙌
 - April 22 - Community Meetup 👥📍🙌
-- April 29 - Workshop: Portfolio & Case Study Review - Best Practices 💻📚
+- April 29 - TDM-Calc Live Demo: Screen Reader Accessibility - Best Practices 💻🔊 
 
 ### May 2026
 - May 06 - Planning Week (no UI/UX CoP Meeting)
 - May 13 - Community Meetup 👥📍🙌
 - May 20 - Community Meetup 👥📍🙌
-- May 27 - Fireside chat: Best Practices in Networking 🔥🎙️🤝  
+- May 27 - Fireside chat: Best Practices in Networking 🎙️🤝  
 
 
 ## :white_check_mark: Getting Started
