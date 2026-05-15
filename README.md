@@ -11,18 +11,17 @@ We are excited to have you here. Our community is dedicated to fostering collabo
 
 ### Upcoming Meetings
 
-### April 2026
-- April 01 - Planning Week (no UI/UX CoP Meeting)
-- April 08 - Community Meetup 👥📍🙌
-- April 15 - Community Meetup 👥📍🙌
-- April 22 - Community Meetup 👥📍🙌
-- April 29 - TDM-Calc Live Demo: Screen Reader Accessibility - Best Practices 💻🔊 
-
 ### May 2026
 - May 06 - Planning Week (no UI/UX CoP Meeting)
 - May 13 - Community Meetup 👥📍🙌
 - May 20 - Community Meetup 👥📍🙌
 - May 27 - Fireside chat: Best Practices in Networking 🎙️🤝  
+
+### June 2026
+- June 03 - Planning Week (no UI/UX CoP Meeting)
+- June 10 - Community Meetup 👥📍🙌
+- June 17 - Community Meetup 👥📍🙌
+- June 24 - Best Practices: Personal Branding ⚡🚀  
 
 
 ## :white_check_mark: Getting Started
