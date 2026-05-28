@@ -15,7 +15,7 @@ We are excited to have you here. Our community is dedicated to fostering collabo
 - May 06 - Planning Week (no UI/UX CoP Meeting)
 - May 13 - Community Meetup 👥📍🙌
 - May 20 - Community Meetup 👥📍🙌
-- May 27 - Fireside chat: Best Practices in Networking 🎙️🤝  
+- May 27 - Fireside chat: Interview Practice Tools 🎙️🤝  
 
 ### June 2026
 - June 03 - Planning Week (no UI/UX CoP Meeting)
