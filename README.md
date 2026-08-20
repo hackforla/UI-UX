@@ -11,15 +11,19 @@ We are excited to have you here. Our community is dedicated to fostering collabo
 
 ### Upcoming Meetings
 
- ### June 2026
-Theme of the Month: FREE OPEN-SOURCE TOOLS/RESOURCES
-- June 03 - Planning Week (no UI/UX CoP Meeting)
-- June 10 - Community Meetup 👥📍🙌
-- June 17 - Community Meetup - Design & Interview Prep Tools👥📍🙌
-- June 24 - Community Meetup - Career Planning Tools 👥📍🙌
+### August 2026
+- August 05 - Planning Week (no UI/UX CoP Meeting)
+- August 12 - Community Meetup 👥📍🙌
+- August 19 - Community Meetup 👥📍🙌
+- August 26 - Fireside Chat: How to speak about your Open Source Work 🔥🗣️💻🌐  
 
-### July 2026 
-- The UI/UX Community of Practice taking a summer break! 🌻🐚
+### September 2026 
+- September 02 - Planning Week (no UI/UX CoP Meeting)
+- September 09 - Community Meetup 👥📍🙌
+- September 16 - Community Meetup 👥📍🙌
+- September 23 - Community Meetup 👥📍🙌
+- September 30 - Fireside Chat: Best practices to optimise your LinkedIn Banner 🔥🗣️🏳️🖼️ 
+
 
 
 ## :white_check_mark: Getting Started
