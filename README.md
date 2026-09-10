@@ -11,12 +11,6 @@ We are excited to have you here. Our community is dedicated to fostering collabo
 
 ### Upcoming Meetings
 
-### August 2026
-- August 05 - Planning Week (no UI/UX CoP Meeting)
-- August 12 - Community Meetup 👥📍🙌
-- August 19 - Community Meetup 👥📍🙌
-- August 26 - Fireside Chat: How to speak about your Open Source Work 🔥🗣️💻🌐  
-
 ### September 2026 
 - September 02 - Planning Week (no UI/UX CoP Meeting)
 - September 09 - Community Meetup 👥📍🙌
@@ -24,7 +18,11 @@ We are excited to have you here. Our community is dedicated to fostering collabo
 - September 23 - Community Meetup 👥📍🙌
 - September 30 - Fireside Chat: Best practices to optimise your LinkedIn Banner 🔥🗣️🏳️🖼️ 
 
-
+### October 2026 
+- October 07 - Planning Week (no UI/UX CoP Meeting)
+- October 14 - Community Meetup 👥📍🙌
+- October 21 - Community Meetup 👥📍🙌
+- October 28 - Portfolio Best Practices 🔖📚 
 
 ## :white_check_mark: Getting Started
 ### Step 1. Complete General Onboarding
