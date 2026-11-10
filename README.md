@@ -22,7 +22,13 @@ We are excited to have you here. Our community is dedicated to fostering collabo
 - October 07 - Planning Week (no UI/UX CoP Meeting)
 - October 14 - Community Meetup 👥📍🙌
 - October 21 - Community Meetup 👥📍🙌
-- October 28 - Portfolio Best Practices 🔖📚 
+- October 28 - Community Meetup 👥📍🙌
+
+### November 2026 
+- November 04 - Planning Week (no UI/UX CoP Meeting)
+- November 11 - Community Meetup 👥📍🙌
+- November 18 - Portfolio Best Practices 🔖📚 
+- November 25 - Thanksgiving Week (no UI/UX CoP Meeting) 🦃🌽🥔🍗🥧🍂  
 
 ## :white_check_mark: Getting Started
 ### Step 1. Complete General Onboarding
