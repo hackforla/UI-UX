@@ -11,19 +11,6 @@ We are excited to have you here. Our community is dedicated to fostering collabo
 
 ### Upcoming Meetings
 
-### September 2026 
-- September 02 - Planning Week (no UI/UX CoP Meeting)
-- September 09 - Community Meetup 👥📍🙌
-- September 16 - Community Meetup 👥📍🙌
-- September 23 - Community Meetup 👥📍🙌
-- September 30 - Fireside Chat: Best practices to optimise your LinkedIn Banner 🔥🗣️🏳️🖼️ 
-
-### October 2026 
-- October 07 - Planning Week (no UI/UX CoP Meeting)
-- October 14 - Community Meetup 👥📍🙌
-- October 21 - Community Meetup 👥📍🙌
-- October 28 - Community Meetup 👥📍🙌
-
 ### November 2026 
 - November 04 - Planning Week (no UI/UX CoP Meeting)
 - November 11 - Community Meetup 👥📍🙌
